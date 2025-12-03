@@ -31,8 +31,9 @@ public class ConsensusParser {
 
         try (BufferedReader br = new BufferedReader(new FileReader(filename))) {
             String line;
+            boolean inRelay = false;
 
-            // Relay fields
+            
             String nickname = null;
             String fingerprint = null;
             LocalDateTime published = null;
@@ -44,7 +45,6 @@ public class ConsensusParser {
             int bandwidth = 0;
             String exitPolicy = null;
 
-            boolean inRelay = false;
 
             DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
 
@@ -151,7 +151,7 @@ public class ConsensusParser {
         return nodes.toArray(new Node[0]);
     }
 
-    // ========= COUNTRY LOOKUP ==========
+    // --- country finder ---
     private String lookupCountryForIp(String ip) {
         if (geoIpResolver == null) return "UNKNOWN";
         return geoIpResolver.lookupCountryForIp(ip);

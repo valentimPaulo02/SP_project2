@@ -23,20 +23,20 @@ public class CountryFinder implements AutoCloseable {
         this.reader = new DatabaseReader.Builder(database).build();
     }
 
-    public String lookupCountryForIp(String ipWithOptionalPort) {
-        if (ipWithOptionalPort == null || ipWithOptionalPort.trim().isEmpty()) return "UNKNOWN";
+    public String lookupCountryForIp(String ip) {
+        if (ip == null || ip.trim().isEmpty()) return "UNKNOWN";
 
-        String cached = cache.get(ipWithOptionalPort);
+        String cached = cache.get(ip);
         if (cached != null) return cached;
 
-        String ip = stripPort(ipWithOptionalPort.trim());
+        String strippedIp = stripPort(ip.trim());
 
         try {
-            InetAddress addr = InetAddress.getByName(ip);
+            InetAddress addr = InetAddress.getByName(strippedIp);
             CountryResponse response = reader.country(addr);
             if (response != null && response.getCountry() != null && response.getCountry().getName() != null) {
                 String country = response.getCountry().getName();
-                cache.put(ipWithOptionalPort, country);
+                cache.put(ip, country);
                 return country;
             }
         } catch (AddressNotFoundException e) {
@@ -45,7 +45,7 @@ public class CountryFinder implements AutoCloseable {
             // other probs
         }
 
-        cache.put(ipWithOptionalPort, "UNKNOWN");
+        cache.put(ip, "UNKNOWN");
         return "UNKNOWN";
     }
 
