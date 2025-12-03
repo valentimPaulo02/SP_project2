@@ -27,5 +27,5 @@ public class Circuit {
     
     public void setId(int id) {this.id = id;}
     public void setNodes(Node[] nodes) {this.nodes = Arrays.copyOf(nodes, nodes.length);}
-    public void setMinBandwidth() {this.minBandwidth = minBandwidth;}
+    public void setMinBandwidth(int minBandwidth) {this.minBandwidth = minBandwidth;}
 }
