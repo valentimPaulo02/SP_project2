@@ -1,4 +1,4 @@
-package pt.unl.fct.pds.project2.model;
+package pt.unl.fct.pds.model;
 
 import java.time.LocalDateTime;
 import java.util.Arrays;
