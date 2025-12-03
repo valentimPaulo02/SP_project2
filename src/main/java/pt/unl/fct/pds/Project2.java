@@ -6,6 +6,7 @@ import java.util.Arrays;
 
 import pt.unl.fct.pds.model.Circuit;
 import pt.unl.fct.pds.utils.ConsensusParser;
+import pt.unl.fct.pds.utils.CountryFinder;
 
 
 /**
@@ -14,20 +15,19 @@ import pt.unl.fct.pds.utils.ConsensusParser;
  */
 public class Project2 
 {
-    public static void main( String[] args )
+    public static void main( String[] args ) throws Exception
     {
-        // Here we write our logic to choose circuits!
-        System.out.println("Welcome to the Circuit Simulator!");
+        String consensusPath = "src/main/java/pt/unl/fct/pds/data/consensus.txt";
+        String countryDbPath = "src/main/java/pt/unl/fct/pds/data/GeoLite2-Country.mmdb";
 
+        CountryFinder resolver = new CountryFinder(countryDbPath);
+        ConsensusParser parser = new ConsensusParser(consensusPath, resolver);
 
-        // TESTING ----
-
-        // Path to your consensus file (update if your file is elsewhere)
-        String consensusPath = "src/main/java/pt/unl/fct/pds/consensus.txt";
-
-        ConsensusParser parser = new ConsensusParser(consensusPath);
         Node[] nodes = parser.parseConsensus();
+        resolver.close();
 
+    
+        // VIEWING RESULTS 
         if (nodes == null || nodes.length == 0) {
             System.out.println("No nodes parsed. Check file path / parser errors.");
             return;

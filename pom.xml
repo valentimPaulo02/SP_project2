@@ -50,5 +50,11 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    
+    <dependency>
+      <groupId>com.maxmind.geoip2</groupId>
+      <artifactId>geoip2</artifactId>
+      <version>4.4.0</version>
+    </dependency>
   </dependencies>
 </project>

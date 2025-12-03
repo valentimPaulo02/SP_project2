@@ -14,9 +14,12 @@ import java.util.List;
 
 public class ConsensusParser {
     String filename;
+    private final CountryFinder geoIpResolver;
 
-    public ConsensusParser() {}
-    public ConsensusParser(String filename) { this.filename = filename; }
+    public ConsensusParser(String filename, CountryFinder resolver) {
+        this.filename = filename;
+        this.geoIpResolver = resolver;
+    }
 
     public String getFilename() { return filename; }
     public void setFilename(String filename) { this.filename = filename; }
@@ -148,8 +151,9 @@ public class ConsensusParser {
         return nodes.toArray(new Node[0]);
     }
 
-    // ========= COUNTRY LOOKUP: STUB FOR NOW ==========
+    // ========= COUNTRY LOOKUP ==========
     private String lookupCountryForIp(String ip) {
-        return "UNKNOWN";
+        if (geoIpResolver == null) return "UNKNOWN";
+        return geoIpResolver.lookupCountryForIp(ip);
     }
 }
