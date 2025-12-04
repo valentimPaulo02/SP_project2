@@ -7,16 +7,7 @@ import java.time.LocalDateTime;
 import java.util.*;
 import java.util.stream.Collectors;
 
-/**
- * GeoSelector: a custom 3-hop selector that prioritizes country diversity.
- *
- * Behavior:
- *  - Select Exit similar to Tor: Exit+Fast+Running+Valid + exit policy match, weighted by bandwidth.
- *  - Select Guard: prefer guards whose country != exit.country and not same /16 as exit. If none, relax country constraint.
- *  - Select Middle: prefer nodes whose country != guard.country && != exit.country and not same /16 as either. If none, relax.
- *  - Always avoid selecting the same node twice (by fingerprint).
- *  - Weighted sampling by bandwidth for each candidate set.
- */
+
 public class GeoSelector {
 
     private final Node[] allNodes;

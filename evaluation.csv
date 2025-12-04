@@ -1,0 +1,601 @@
+selector,trial,role,nickname,fingerprint,ip,country,bandwidth
+Tor,0,guard,Quetzalcoatl,DPSGlvAESCxEXYdb43aljj1mBJc,45.141.215.40,Poland,11000
+Tor,0,middle,plasmarifle,9D1XXQqBbeVkeyD005iOa2SKDMQ,80.239.189.76,France,24000
+Tor,0,exit,eo207,h9bKPR1givNR37NcmC+JPXZut2Y,23.129.64.207,United States,6800
+Tor,1,guard,ForPrivacyNET,s4/nVNfl4Vy4p97fiWAN0HPaddQ,185.220.101.197,Germany,43000
+Tor,1,middle,w00naningansAMS1,7GBCggxCVOMlVDPBw/GMBBNQP/A,45.58.190.74,United States,37000
+Tor,1,exit,merkle,UyHfqm1Zd+sFuA7p2cikiTkeNWY,23.129.64.156,United States,5200
+Tor,2,guard,NTH34R8,QQ0lclFLTXGgkezc4QMA31JpohA,192.42.116.186,The Netherlands,29000
+Tor,2,middle,Lily,yJl29BNRs/DNolw4W0HtJqJ2V5o,5.255.101.24,The Netherlands,15000
+Tor,2,exit,eo205,YpaIIsQws4iFaMWd6ns8TRpmp74,23.129.64.205,United States,6700
+Tor,3,guard,art1kel,6BFoS9wPcYyZqVMLNWZUoqUDoSI,23.132.28.85,Canada,2400
+Tor,3,middle,ZoneXChat,BcRKwK3hvlNSKU4iXvaywqxY2/k,82.25.91.245,United Kingdom,1500
+Tor,3,exit,eo222,ClcABd7e42FARnt2r7VzOxkdDrY,23.129.64.222,United States,6700
+Tor,4,guard,Tor1EerieIndiana,L3FW9DPUa/QTOAaLPUjeOYd7PQ8,212.227.127.105,United Kingdom,76000
+Tor,4,middle,Exits4Privacy,ygc3yFGbePZVa8sJe55L/poEbak,192.76.160.145,Germany,170000
+Tor,4,exit,dimensiondoor,4jTFVoiTRUcRJA2tiG/jFe8nXds,23.129.64.176,United States,9300
+Tor,5,guard,Indigold,TPIE9mRSyJcSuc9ROiE8HwPY9wY,46.4.74.237,Germany,110000
+Tor,5,middle,marcuse7,7/En+j6FCxe/mpgK+wEKFy9sb68,178.20.55.16,France,26000
+Tor,5,exit,winner,/gUt1gGBWRmECFBlwFkxq9SCZgM,23.129.64.151,United States,7500
+Tor,6,guard,Quetzalcoatl,4PwrYDO8wa1crClaCxnPbPU+7RE,45.138.16.69,Poland,18000
+Tor,6,middle,cozybeardev,fPO/0N5a03csudKTv5JRgTKWkkw,176.65.149.87,The Netherlands,86000
+Tor,6,exit,llandaf,Nc/V3CZwnodYM3qs1QiT4TYw+gE,23.129.64.166,United States,7700
+Tor,7,guard,torNodes211,+QUpZuJUhAkR5vB0Sib0J0Ualk0,195.133.88.211,Austria,19000
+Tor,7,middle,MichaelAngelo,reo9Vgn87B7y9EJsSTE+uC3+Pms,178.63.40.99,Germany,96000
+Tor,7,exit,landau,UhOQ/a2GGrjw93J9UeWV1Q+cdUs,23.129.64.158,United States,7200
+Tor,8,guard,mmmskyscraper,Xfu7PmqNUAMoQo0ZgyJsVhG50nc,89.163.150.143,Germany,71000
+Tor,8,middle,torexitams07,/bISpHpYzMWPHq3Bzh202swjNuk,45.66.35.27,The Netherlands,120000
+Tor,8,exit,poitras,FONGhGyHqIRNWi58F4VaiRqm1/s,23.129.64.146,United States,5000
+Tor,9,guard,netlixor,dlOKmKr1xhh6ReffmEveuo3l9H4,104.252.2.20,United States,47000
+Tor,9,middle,Playstar01,WXWFi2ofN8zJYCa5RurPCOF3LQ4,192.121.44.26,Sweden,17000
+Tor,9,exit,TorMcTorface,BCHrrDx98O5GWRY9G/yubaZUPJ0,23.129.64.177,United States,7700
+Tor,10,guard,FTPhalifaxRWTH,AI6uIjsRDI7e4g0G+w3UxD4+AUI,137.226.34.45,Germany,82000
+Tor,10,middle,Exits4Privacy,qZa8VHRzfI6ijp9UplmzewqlM1M,192.76.160.154,Germany,170000
+Tor,10,exit,eo209,4a/mlyQfZFe2xSoVhXa04RKi+JQ,23.129.64.209,United States,6600
+Tor,11,guard,despacitor,4A39VNwWXVRS+9NTDTAYba0Bagw,163.172.53.201,France,74000
+Tor,11,middle,fabod4l,zmg7zTgab7qFshzzkILHp5pD3vg,64.65.1.42,United States,3900
+Tor,11,exit,schuetzdich,76gqxLXXFZcjLReun+UdO4bWCfc,45.86.153.248,Germany,74000
+Tor,12,guard,redback,RH2W05j340CzHUY0fbaOf+g/ilo,62.67.28.50,Germany,6400
+Tor,12,middle,KryptoKiste,4RmsLVyJ1jL/BiSXB9vHDz+HcA4,95.216.159.94,Finland,25000
+Tor,12,exit,landau,UhOQ/a2GGrjw93J9UeWV1Q+cdUs,23.129.64.158,United States,7200
+Tor,13,guard,Anguiped,tvalbF2xz7GGkmlZI7PkKXWMmjo,51.89.81.247,United Kingdom,89000
+Tor,13,middle,Freebsd2324,H3jUfSC6Os+dzlD0Uzpc6iMs85g,148.251.125.117,Germany,150000
+Tor,13,exit,NotYourINTERNET,/qWGMtzeQy+qKBX8UhP/+EEUWG8,64.190.113.221,United States,7000
+Tor,14,guard,objectivemeninsky,BWpalhu67MkmT9811pFmj0bAQYc,135.181.99.59,Finland,12000
+Tor,14,middle,GreenOnion,/7S/KuiWyo57PEGYVTRkFddD6Ik,146.59.15.186,France,73000
+Tor,14,exit,goldwasser,ImKRHFNhjv9hA1a8QLmimP7B2jc,23.129.64.137,United States,5000
+Tor,15,guard,blahhhhh,ufHALcOQxrnogytB8Wk2hEcWZ+s,209.205.160.229,United States,1700
+Tor,15,middle,LaserSystem,K5T++WjJlJ/S8Q6xVJOElLL1BSc,178.165.126.221,Ukraine,10000
+Tor,15,exit,merkle,UyHfqm1Zd+sFuA7p2cikiTkeNWY,23.129.64.156,United States,5200
+Tor,16,guard,Medulla,rze5UfdtK7V3Nm+gWdGxkT3XTUE,188.165.137.247,France,110000
+Tor,16,middle,mentoreth1,owk7cppXZyrgcXzfOwnjOCbzZYI,192.76.153.253,The Netherlands,64000
+Tor,16,exit,eo199,mVG9Jp0YbfNrEnTPdKSqRdZvPEI,23.129.64.199,United States,6100
+Tor,17,guard,Zensursula,SdIojDbteP8HwXoLL1Zz28HfMWQ,194.164.197.45,Germany,73000
+Tor,17,middle,alexf,PlmeQhE94XT5DiE/nLgYdHugrjY,45.157.234.148,Germany,200000
+Tor,17,exit,schuetzdich,76gqxLXXFZcjLReun+UdO4bWCfc,45.86.153.248,Germany,74000
+Tor,18,guard,Todry542,mip+Vcwh3yxhcQaP2d9rNatQQTI,89.80.212.133,France,150000
+Tor,18,middle,DFRI138,z1+zVa4iR0j1ac5xrKIULgMAxaU,171.25.193.132,Sweden,29000
+Tor,18,exit,eo178,XL0woFBDx1KUygcVA0/Rn24ZM+c,23.129.64.178,United States,8500
+Tor,19,guard,TORfuExit04,0Bv5q21woPt8j4pvj6O4oyiiXaE,37.114.50.142,Germany,100000
+Tor,19,middle,wordsworth,gFLZlICXxbqo/iURDb+iSWxwCWQ,64.65.62.161,United States,10000
+Tor,19,exit,blahaj,2ukKI5Ll5sLfvMT/iK/pJe+/PR8,23.129.64.225,United States,5600
+Tor,20,guard,Beanbag,ogjGbjuvMrcJIOtq+AgffPpdsdE,136.243.176.179,Germany,110000
+Tor,20,middle,shawtylod4l,j73jWNEo/hWHcY7Y89JIF89qy0U,64.65.1.41,United States,9800
+Tor,20,exit,schuetzdich,76gqxLXXFZcjLReun+UdO4bWCfc,45.86.153.248,Germany,74000
+Tor,21,guard,prsv,/aqDWyZXyouBWBeRaSDSO92hi1I,185.177.238.26,Albania,30000
+Tor,21,middle,TORKeFFORG23,vYEs2uFWKCOiJBqMNBGg6zjklkQ,193.189.100.203,Sweden,39000
+Tor,21,exit,eo212,JbVSKa38qXH15bwCvds6hcVSlA8,23.129.64.212,United States,5200
+Tor,22,guard,marcuse1,oxnWRHsrQQdHfhJu5KK3w4ElFJ4,178.20.55.16,France,25000
+Tor,22,middle,relayongorellik,3zkIYLVhC46ZxaeLQJmjcFzTaxc,185.220.100.251,Germany,120000
+Tor,22,exit,agnese,UruOXLJBaeBEJaXi83lm/i2i9rY,23.129.64.173,United States,8100
+Tor,23,guard,rainbowland,h2x85Dd0NmJQ0+do5pDaudS11aM,37.218.242.26,The Netherlands,130000
+Tor,23,middle,Tor0x800,4J4aVw5yZune1CcU8n09lF2bTvQ,185.80.30.102,Czechia,140000
+Tor,23,exit,eo186,fTZMnJO77Cuv/7fJiqIN4CVbWlE,23.129.64.186,United States,7900
+Tor,24,guard,torrelaynbg2,VT1+q9XBJSREJofF45Rgfe6ztUI,46.224.52.13,Germany,14000
+Tor,24,middle,JohandExit,4RNPOUcMXoSGMh7gVQbZp9ZSim4,185.40.4.44,Norway,51000
+Tor,24,exit,klein,GG8EbYiV4TYms2O4eb0V84pSxrw,23.129.64.141,United States,6300
+Tor,25,guard,7DF785A8AF7E9BE685C,B9D4Igvq+XjFl5o6T04XjIENRPc,46.167.244.21,Czechia,20000
+Tor,25,middle,Quetzalcoatl,PWKJeUwpuFlyb7URTuhGWnrVHmE,192.159.99.74,The Netherlands,13000
+Tor,25,exit,eo186,fTZMnJO77Cuv/7fJiqIN4CVbWlE,23.129.64.186,United States,7900
+Tor,26,guard,CSanders,cQFlSIMt0m4boNMhbXXzp3Z5Bio,138.201.19.25,Germany,91000
+Tor,26,middle,anonymo05,2ApWPeb2oLLLTCnqfrZsEN2eO3E,185.156.174.234,Czechia,56000
+Tor,26,exit,eo187,DxQADibWP6k8lrPwj0UxlicV1bs,23.129.64.187,United States,6500
+Tor,27,guard,ASqUADeo,WFyFXyyoaLLr/xh86huFUIQD6G8,45.154.98.33,The Netherlands,53000
+Tor,27,middle,robstone,riL+F0CpLLKg3ucENX1REziq07o,64.65.0.25,United States,52000
+Tor,27,exit,eo193,jKM2iLmPDqGyU+yvrFHzUDK93Kw,23.129.64.193,United States,6600
+Tor,28,guard,Unnamed,DjLvMYQZ0wBcMAOv9NFWapQdpIQ,104.152.209.217,Canada,7000
+Tor,28,middle,Mewse,uM5yWIwjFMZRO/SzgXhWpOsxT20,45.128.133.242,Belgium,26000
+Tor,28,exit,horgabost,HStkAZcBObKwANYzSWifErPjJyM,23.129.64.174,United States,6600
+Tor,29,guard,blackfox,A9HvPvK+UUUVDFisxyUZ3YYOYbo,136.243.3.194,Germany,87000
+Tor,29,middle,TorRelay12345,/Cm64t1pQYV37f7m5mPHcieCKrc,107.189.8.12,Luxembourg,2900
+Tor,29,exit,barlow,o4oSZBtscITjVNRp+f6Cg3IAHmM,23.129.64.131,United States,5100
+Tor,30,guard,CanisLatrans,co+X1byxMWmIFNjHE8IiDG5yZ94,135.148.100.90,United States,28000
+Tor,30,middle,Quetzalcoatl,hRhtTC8OQlfIMAHVjW+rGvk6oic,107.189.14.4,Luxembourg,57000
+Tor,30,exit,eo190,AIL+GSEtloHusjIKQq3wOQ0jFYU,23.129.64.190,United States,6900
+Tor,31,guard,CyberFog,tQkJHBOSWv6kBgZoGof7UJhld9o,84.52.216.169,Norway,14000
+Tor,31,middle,endivie,jTRacJwHPBF3aKHyEM0EvxIjSuw,109.70.100.67,Austria,36000
+Tor,31,exit,sullyhelpstor,4JmcX0LRIgSqgDhlPbrNzh9A5/8,107.189.13.254,Luxembourg,24000
+Tor,32,guard,percy,vgYoQ3H9kDFUpoPWxQH/GXjB+h4,178.32.139.118,France,86000
+Tor,32,middle,MonaLissa,A3OCT+IBddxxdl4IuIeMBD1mZhU,45.140.164.67,France,33000
+Tor,32,exit,keite,2FaXfCglfscN+TeyywborJiUBhM,23.129.64.175,United States,8000
+Tor,33,guard,janiTORX5,mcfxAO66J2d3FdAxinHTY2a4BLE,88.99.142.177,Germany,120000
+Tor,33,middle,Unnamed,TIMCw6bIAIHBK8Wo+aOJF72SP74,5.196.131.170,France,26000
+Tor,33,exit,eo203,zOM1Kl8d/7gt8r5jfrOxoEjSJPs,23.129.64.203,United States,6100
+Tor,34,guard,prsv,nDSu51FCvmzOd5/YwH5WCezuy+U,80.94.92.135,Romania,7600
+Tor,34,middle,atomcats,mrk7VCIUnl3/S+ajgU4vbZZI22o,198.244.229.228,United Kingdom,220000
+Tor,34,exit,schuetzdich,76gqxLXXFZcjLReun+UdO4bWCfc,45.86.153.248,Germany,74000
+Tor,35,guard,unnamed314,ozpccM+oaZaxrn0yuToZQqruaDU,178.18.246.223,France,11000
+Tor,35,middle,PRQseTORexit6,4RQpvonugjHG5ULJB7fk7/VyVy4,88.80.26.4,Sweden,24000
+Tor,35,exit,hellman,JzE1xOxzah6I24IQOhecPDZGcBk,23.129.64.155,United States,5600
+Tor,36,guard,prsv,uqeaYDf6k4OoQju37pudWF0WlU0,51.38.112.15,France,48000
+Tor,36,middle,r0cket03i1,njT7DI6TftjPzg5HeTuXDHMZVPg,45.84.107.76,Sweden,44000
+Tor,36,exit,Andr0medaTF,xG/tTWWCx5ZIlZ6TS2zn1A4sDyc,205.185.116.215,United States,3100
+Tor,37,guard,TORKeFFORG2,aAFqmsR3rgObjuB8Nsq8BEASamc,193.189.100.195,Sweden,41000
+Tor,37,middle,hogman2,WQ09AgWjmNZf9+QcftRuRst86FY,23.137.253.109,United States,7400
+Tor,37,exit,merkle,UyHfqm1Zd+sFuA7p2cikiTkeNWY,23.129.64.156,United States,5200
+Tor,38,guard,prsv,WnWe+p11+dESSe0SmE/xEKkrIME,135.125.183.193,France,100000
+Tor,38,middle,prsv,+vxNJDT/sV35afWjaZWETij9doo,57.131.27.46,France,9800
+Tor,38,exit,horgabost,HStkAZcBObKwANYzSWifErPjJyM,23.129.64.174,United States,6600
+Tor,39,guard,RelayUli,ijBVl6zsIf9pZF9XcW+aDxYMcms,57.128.228.176,Poland,66000
+Tor,39,middle,fi2andersio,wUhI20QnmxmCQO4Or73WbNDuCU0,65.109.0.210,Finland,30000
+Tor,39,exit,mathewson,NAfFz2p4ukdr8XriBjX0sioAyxc,23.129.64.163,United States,8300
+Tor,40,guard,lildread,S8ASGpH9yZOFCREM1uCf+vkwPyY,64.65.1.69,United States,7100
+Tor,40,middle,lamarr,ngO5Sxb/OeogGc579cbIu/hM1nU,109.70.100.245,Austria,68000
+Tor,40,exit,horgabost,HStkAZcBObKwANYzSWifErPjJyM,23.129.64.174,United States,6600
+Tor,41,guard,KarsLovesIsrael,Ab1Jb8UZdSNsNwF/C71nE5GD2eQ,185.126.114.110,Ukraine,20000
+Tor,41,middle,lunar9,iL5rQ0wTVVfHCgE9N05Too2kDWo,203.55.81.2,France,41000
+Tor,41,exit,merkle,UyHfqm1Zd+sFuA7p2cikiTkeNWY,23.129.64.156,United States,5200
+Tor,42,guard,lunar12,4jHaY5gUJbMiYUMx9Yx6FlTq1jA,203.55.81.2,France,44000
+Tor,42,middle,Exits4Privacy,plizgrKQLODzCykhwXCPY+vuppY,192.76.160.147,Germany,160000
+Tor,42,exit,eo215,OAmTjVeGzSiGyFZXgxauP/YvzL0,23.129.64.215,United States,6700
+Tor,43,guard,arribaespana,mDdSWoZFg0rJtd3j20J4Zy/6yWk,141.227.137.150,France,42000
+Tor,43,middle,TORnadoExit02,b/Nlhx6AjrZ6HGHKUmjss7/NF6I,109.71.252.97,Germany,120000
+Tor,43,exit,nenapini,dh+a7RXJyMeB4XdDPNkUOehCq9Q,23.129.64.169,United States,7500
+Tor,44,guard,Mikontalo,V6iein3Aa0iA20gurr2JkqPzZWo,88.193.128.121,Finland,28000
+Tor,44,middle,flowjob04,3Qqmbdnk5x/6+rZY34MA8c7qA2Q,92.60.38.94,Germany,34000
+Tor,44,exit,snowden,hsepolah7LA0/P6sggxjiVhFXcs,23.129.64.147,United States,5400
+Tor,45,guard,1blu4DEicebeer01,/Mi7r1pU/3X4H6krEJuHNF7oMdM,178.254.44.163,Germany,62000
+Tor,45,middle,radicchio,/IhZITbuwvN8PRaF42uLjT7m3AE,109.70.100.1,Austria,30000
+Tor,45,exit,eo209,4a/mlyQfZFe2xSoVhXa04RKi+JQ,23.129.64.209,United States,6600
+Tor,46,guard,prsv,0Tq+xURtuwCJrh3qZ/RajFbH7HI,185.40.4.10,Norway,30000
+Tor,46,middle,FlashLizard,Y4nstIkTNLhGMA/dimglDrtbfFI,185.82.219.85,Bulgaria,3000
+Tor,46,exit,ellsburg,p4NGoB7tPvZtK6XjSpZJPRtDwEg,23.129.64.135,United States,6000
+Tor,47,guard,Kanellos,c9UEX0rlCyJMq9rcM5tdEBz1pGU,146.0.36.87,Germany,35000
+Tor,47,middle,ItHurtsWhenIP,lPZHRtgHBOcs9g/R1qmpBE4EXnw,207.188.189.121,Spain,8000
+Tor,47,exit,eo182,Vq+ttOUFVSZO6pEIDMdzJzlog3g,23.129.64.182,United States,6000
+Tor,48,guard,severancecheck,rXhq9Ijh9V1PCKoFkBMEWWCPZf4,51.158.204.114,The Netherlands,53000
+Tor,48,middle,DFRI111,EnHXnEJDtPi6nEnDyTSeQF9v2xw,171.25.193.79,Sweden,30000
+Tor,48,exit,eo207,h9bKPR1givNR37NcmC+JPXZut2Y,23.129.64.207,United States,6800
+Tor,49,guard,VrijHeid3,/jNunj6bHhuVnUSxQHheejybG0A,94.142.241.194,The Netherlands,24000
+Tor,49,middle,richboy,SFtiwSvdt3LIKB/sPLfxmj9BaJg,64.65.0.55,United States,37000
+Tor,49,exit,eo198,pnizuN5aYvle4Nk2rKbE+9B9Fts,23.129.64.198,United States,5900
+Tor,50,guard,dotsrcExit1,GqBCqoATt8eFPOKniFN99VhJhRA,185.129.61.1,Denmark,69000
+Tor,50,middle,keep,y9QgEG5Gwe7NtaArTOEs/xo4ues,188.165.131.206,France,76000
+Tor,50,exit,diffie,BvC7TN9NdeXoJlpicMENL9/mSqo,23.129.64.154,United States,4600
+Tor,51,guard,Spigen,h02EOCyJLz9hzJ4Qa/CIQ94Lhlo,192.42.113.102,The Netherlands,62000
+Tor,51,middle,cal,FEIGrR+YupbK+h6/RnLLQfXDEnI,152.53.48.80,Austria,51000
+Tor,51,exit,eo214,7SRaGZ2gnk4AMjlRHRkZpJRYh5s,23.129.64.214,United States,6600
+Tor,52,guard,defcon777,kW3DGZ9jkWjNIK7E1FlpJo6Adpk,148.251.136.16,Germany,92000
+Tor,52,middle,maluma,hC+8fCNPFLiuqNSMtKqXTD+jZOo,64.65.62.67,United States,12000
+Tor,52,exit,NotYourINTERNET,/qWGMtzeQy+qKBX8UhP/+EEUWG8,64.190.113.221,United States,7000
+Tor,53,guard,Unnamed,gNNsQ8ySJtEGuZAR3krRVER+FeY,85.215.152.106,Germany,58000
+Tor,53,middle,r0cket08i5,q6kbmAeWLgRUbdPt5/7Fa+dYDqg,45.84.107.172,Sweden,39000
+Tor,53,exit,Hub234,GnycAp33aYr36EDJZrb0mVvFZFE,154.90.54.69,United Arab Emirates,710
+Tor,54,guard,OnionsAreBeautiful,WWaXrtPhfBtuxcBiCXrdW/yBeo0,194.26.192.22,The Netherlands,15000
+Tor,54,middle,prsv,r7wdIFE56pPrnx9fsmVQ5/hTBMo,45.92.1.136,The Netherlands,31000
+Tor,54,exit,eo189,2MaEt+xqU8jlQcR4xFozQzI9Qkw,23.129.64.189,United States,6000
+Tor,55,guard,NTH39R1,G6oz/kr6OjB3lwQ/zVlmXTws5VI,192.42.116.202,The Netherlands,18000
+Tor,55,middle,DFRI29,vlIPfeZu5DdUtOPHLnAx1ZH/Alc,171.25.193.77,Sweden,30000
+Tor,55,exit,eo203,zOM1Kl8d/7gt8r5jfrOxoEjSJPs,23.129.64.203,United States,6100
+Tor,56,guard,prsv,/aqDWyZXyouBWBeRaSDSO92hi1I,185.177.238.26,Albania,30000
+Tor,56,middle,ChumBucket,ANpKOFLqXvaEG4tDctsO/TqwvpI,5.9.56.249,Germany,89000
+Tor,56,exit,nenapini,dh+a7RXJyMeB4XdDPNkUOehCq9Q,23.129.64.169,United States,7500
+Tor,57,guard,mikrogravitationF,Q2yAaw5EKLFeQH6v40c5XVJZLXI,45.14.233.252,Germany,73000
+Tor,57,middle,rickrolltroll,64BrILpplzbuMXFlMj/uxlWkgOY,46.22.165.111,Poland,26000
+Tor,57,exit,eo197,XwJuwh/OibqHT8u/EECMKbkqgCI,23.129.64.197,United States,5500
+Tor,58,guard,torexitams08,LbcGJq5qlhYCqVD+UtkTrZBbD58,45.66.35.28,The Netherlands,78000
+Tor,58,middle,Quetzalcoatl,8mC1StE9epqqcuZ91YPzADfvf/o,45.80.158.93,The Netherlands,10000
+Tor,58,exit,sweeney,Hvwpb7It0osHKoL3J2XVQOK7Ovg,23.129.64.165,United States,8300
+Tor,59,guard,honeycomb,lvamcUGPbfJWkRi1ay74l7cpBIs,46.29.166.59,Russia,7100
+Tor,59,middle,NTH100R3,HNp2UjmpRZeZFxVHMLZheQkrMF8,94.142.241.41,The Netherlands,16000
+Tor,59,exit,snowden,hsepolah7LA0/P6sggxjiVhFXcs,23.129.64.147,United States,5400
+Tor,60,guard,Quetzalcoatl,jq6BD6M/JjQWBdWfgtitWPfqbMU,89.58.26.216,Germany,8200
+Tor,60,middle,emir,WDVjHHnlXN/c+eLRTLmUMlrrMWI,45.157.234.132,Germany,210000
+Tor,60,exit,eo188,UwozKircr21DEqBza83feWoJcls,23.129.64.188,United States,5900
+Tor,61,guard,TORnadoExit01,VVFBoPhbVzHi6JTVE4SOYLgtjjw,109.71.252.88,Germany,120000
+Tor,61,middle,Exits4Privacy,CHGqc52NkR/eP2jRh+cjIDTnCqM,192.76.160.131,Germany,140000
+Tor,61,exit,eo182,Vq+ttOUFVSZO6pEIDMdzJzlog3g,23.129.64.182,United States,6000
+Tor,62,guard,marcuse12,dG/afX9jP/iL9zVBakLkctYw2Gg,178.20.55.182,France,28000
+Tor,62,middle,tor01kryptonit,2BGwAobMNOOu6xzY1YhoFFXCMlw,86.52.62.47,Denmark,38000
+Tor,62,exit,turing,jmnyGcEqX3WFz2ReTprnIMPmzCs,23.129.64.150,United States,8300
+Tor,63,guard,Datenschredder,YcUt/AkP0bGqDB9DHcU1JJwxHrk,80.64.181.152,Germany,54000
+Tor,63,middle,PommespanzerES1,itvwKuThcoHRsM3o35sTxXW1gcU,194.164.169.85,Spain,16000
+Tor,63,exit,merkle,UyHfqm1Zd+sFuA7p2cikiTkeNWY,23.129.64.156,United States,5200
+Tor,64,guard,HRMB,8SxuMALJYGSkwLFMondpDhldcHQ,159.69.71.228,Germany,71000
+Tor,64,middle,TORKeFFORG25,WvC5nyN57RdT52b4ClBFHAmRMiY,193.189.100.205,Sweden,44000
+Tor,64,exit,eo206,9jmdtyTD+GiDPzjXAfDjEasEi6g,23.129.64.206,United States,5300
+Tor,65,guard,Polyphemus15,Vbm/qlCAIBCLwVoWeMNMKDYfwS0,198.251.84.237,Luxembourg,25000
+Tor,65,middle,mikrogravitation7,oUldeW4aXjKYcMijPggNrlXFBSY,45.14.233.210,Germany,76000
+Tor,65,exit,eo214,7SRaGZ2gnk4AMjlRHRkZpJRYh5s,23.129.64.214,United States,6600
+Tor,66,guard,tetraegis,fcSZ6nK/VT08vRsUkWfqoE/TeqA,51.77.71.247,Germany,75000
+Tor,66,middle,arbitraryKenzie0,mdXJpacjiYbR6h13cc+BtKGSxNA,65.108.136.190,Finland,32000
+Tor,66,exit,tra,HzGXCguWrlt7I3FytOAUgeZe8+g,23.129.64.172,United States,7600
+Tor,67,guard,Antisheep,f+fTpbEcym0rw3+DtWdM8o9LL60,5.255.117.56,The Netherlands,20000
+Tor,67,middle,ZackMorris,0MqjMVOqzGnVTWoxhZLh8F31ITo,178.218.144.96,Italy,21000
+Tor,67,exit,eo188,UwozKircr21DEqBza83feWoJcls,23.129.64.188,United States,5900
+Tor,68,guard,MaxRelay2,AI6iLAQKS1wmJVEZW1w0tU81PYM,23.186.168.33,United States,2500
+Tor,68,middle,waschbaer,wQSvmgfvN8y2K7BITSGSf9spR3A,109.70.100.70,Austria,34000
+Tor,68,exit,eo217,HnWWxhmb0eP9fe9GAcxfcYxTDBU,23.129.64.217,United States,6800
+Tor,69,guard,prsv,+c+K2OLIlWr1yVgfnMEJhso7+jQ,51.195.118.232,France,87000
+Tor,69,middle,JobiWan,RgIpdxyWmWxrq4gHDRH6cTWCA3g,86.80.225.203,The Netherlands,7200
+Tor,69,exit,eo207,h9bKPR1givNR37NcmC+JPXZut2Y,23.129.64.207,United States,6800
+Tor,70,guard,Kanellos,WP5ncjQ/9s2eU9iwQKLOSVgI6T0,146.0.36.87,Germany,30000
+Tor,70,middle,prsv,KrWj6+fiGx/ilWH4e1RXH5mp1Pg,81.19.141.199,Germany,54000
+Tor,70,exit,bonobo,PlYTZEhcg/V7LiiZbd71SD1lmig,23.129.64.224,United States,6100
+Tor,71,guard,marvinmartian,XzmBuOBfVZR0C0zFboyVhAOkLHY,5.255.109.214,The Netherlands,21000
+Tor,71,middle,CryptoCactus,8xqOy/ZpzE5rHBSGbr0lwTpw8pY,185.232.68.247,Germany,23000
+Tor,71,exit,eo205,YpaIIsQws4iFaMWd6ns8TRpmp74,23.129.64.205,United States,6700
+Tor,72,guard,dotsrcExit4,V5b+HrV0TrNj/bSZ/7wveTPAyko,185.129.61.4,Denmark,49000
+Tor,72,middle,prsv,XRNiBXUwiRuLf7uINm5IIMfILrM,54.37.80.38,France,41000
+Tor,72,exit,eo183,gDb0KH7WHODEK1c0+HPuecDMfic,23.129.64.183,United States,6100
+Tor,73,guard,vermiculitus,EmEEKxd1u6zjjcbEvK6Hp4sc3wY,80.82.76.55,The Netherlands,73000
+Tor,73,middle,swift1231,+OGim8PyBIYa7QwtvAXO9eC5bPg,171.22.172.65,Germany,7200
+Tor,73,exit,eo218,VdGRLJsMKpgmfe7bhvHw2dXJCN0,23.129.64.218,United States,5900
+Tor,74,guard,relayonbeshaba,BuwsFmnlqBHZZA4HztV4baUMVzc,185.220.100.245,Germany,110000
+Tor,74,middle,koolkeith,gsLOK7TJPU/KLX+Z7SPb9TNe7fc,64.65.0.30,United States,72000
+Tor,74,exit,hellman,JzE1xOxzah6I24IQOhecPDZGcBk,23.129.64.155,United States,5600
+Tor,75,guard,GOGRelayHvn2,6IYAmSF+IkHCXpSwP9uGoO09wsw,176.65.132.187,The Netherlands,35000
+Tor,75,middle,slotor01,SWBKfMfoCrPVGK/D6VsuomVTJxk,198.244.233.55,United Kingdom,64000
+Tor,75,exit,eo221,rd2vF/RhrR/8J6cCiNBuG/4fKBg,23.129.64.221,United States,5800
+Tor,76,guard,Quetzalcoatl,cqpM+JFokzLZRzpOAUD4PbIhBUg,185.241.208.82,Poland,16000
+Tor,76,middle,prsv,iGc8Ti757nXf5IqagwYGSvubvik,81.19.141.199,Germany,36000
+Tor,76,exit,eo186,fTZMnJO77Cuv/7fJiqIN4CVbWlE,23.129.64.186,United States,7900
+Tor,77,guard,LOLlolLOL,5Spnls/Cink1IZY1BcDFxco/+ko,51.68.47.161,France,52000
+Tor,77,middle,NTH37R7,U3iYO8IGQsIr06TbBERfdZ68CeM,192.42.116.189,The Netherlands,37000
+Tor,77,exit,eo200,wuIDAwMdvRsbvHxLGv2jsV96GDs,23.129.64.200,United States,5400
+Tor,78,guard,StuRav,SU5QALp58AeN+gXmEJEcKsUlVy8,144.76.162.202,Germany,100000
+Tor,78,middle,NTH100R3,HNp2UjmpRZeZFxVHMLZheQkrMF8,94.142.241.41,The Netherlands,16000
+Tor,78,exit,gun,xyaIdq6E/4RlmuIR6OA+aKYQtIs,23.129.64.157,United States,6500
+Tor,79,guard,TORKeFFORG34,Ed7/+RK6lEAtN/S98EQKNh+Df2U,193.189.100.201,Sweden,33000
+Tor,79,middle,sabotage,dMDCcF2xGSwD8Z980bsjSEOxqB8,45.66.35.35,The Netherlands,210000
+Tor,79,exit,kofatra,L8aDYP7yAG1US/rDM5vRDpJ2lTY,23.129.64.171,United States,7700
+Tor,80,guard,bgprodeo,kj8F/og9vIm/ER85GoghaAENFlo,185.244.24.40,The Netherlands,92000
+Tor,80,middle,Quetzalcoatl,L9sOCMVjq10iX9vVU9EXyW0RYO0,45.138.16.164,Poland,28000
+Tor,80,exit,sweeney,Hvwpb7It0osHKoL3J2XVQOK7Ovg,23.129.64.165,United States,8300
+Tor,81,guard,as214958tor8,BT7QNS9J9dl03hfqmAz+rK2GmYI,94.142.241.153,The Netherlands,23000
+Tor,81,middle,Unnamed,KtgvOWTTJbP+L/dOmA+wBjdO8ZA,137.74.164.213,France,36000
+Tor,81,exit,eo193,jKM2iLmPDqGyU+yvrFHzUDK93Kw,23.129.64.193,United States,6600
+Tor,82,guard,krsone,N/cFRh9gpszhqxVqmiRPTVm6tCw,64.65.63.10,United States,59000
+Tor,82,middle,mikrogravitationC,8CMXpa8gt1nu27UKwxVELe8srJk,45.14.233.249,Germany,47000
+Tor,82,exit,kofatra,L8aDYP7yAG1US/rDM5vRDpJ2lTY,23.129.64.171,United States,7700
+Tor,83,guard,blockaide,6p4EKgXoUQdqZXY5zQyE2NqGp28,188.214.132.18,Lithuania,31000
+Tor,83,middle,homik5,PbWcpFz6eV6NZTeZuz4uQPuURoQ,51.68.226.107,France,37000
+Tor,83,exit,samarati,udv18tdP3l1/YniyJtOeP9dF3tQ,23.129.64.164,United States,7300
+Tor,84,guard,VoyRelay,rYD5b6rE6o4rlr9OC8xo9jCu3IA,68.234.73.164,United States,3200
+Tor,84,middle,anonymo02,Hayb63Nv0qSBFCNW6BI7PQNNPA4,185.156.174.250,Czechia,44000
+Tor,84,exit,eo207,h9bKPR1givNR37NcmC+JPXZut2Y,23.129.64.207,United States,6800
+Tor,85,guard,fluxe4,6+cY4aSe4ikHFwKWT42x8xgHX/g,131.188.40.188,Germany,44000
+Tor,85,middle,IdotI,voIl8gw6QcOweH9md5h7z51EDwE,185.246.188.117,The Netherlands,65000
+Tor,85,exit,bowden,pbyQi1JNl03Yu5vVGr3fJ5jxJX8,23.129.64.133,United States,5500
+Tor,86,guard,janiTORX5,mcfxAO66J2d3FdAxinHTY2a4BLE,88.99.142.177,Germany,120000
+Tor,86,middle,prsv,a0/f5JpvGAMCK/igLqnQAcR2JBU,51.89.23.41,Germany,77000
+Tor,86,exit,sullyhelpstor,4JmcX0LRIgSqgDhlPbrNzh9A5/8,107.189.13.254,Luxembourg,24000
+Tor,87,guard,prsv,mtH9Uyp3BxAX7hRyuttNN9BWTXc,57.129.44.38,Germany,49000
+Tor,87,middle,Quetzalcoatl,YlAKtAH5NVhnfB6MYeckvUZs6KA,104.244.79.61,Switzerland,50000
+Tor,87,exit,eo192,1UWIcNK3RCFskJih6Ime6nGfHpI,23.129.64.192,United States,5600
+Tor,88,guard,thekillingground,FJZsjvXyu5TQ/Vud5Jti0HE3wWY,85.121.4.6,Romania,7900
+Tor,88,middle,prsv,BjKa27KWHMo8Gf+YQ3r6R0bOuCA,45.143.200.3,Switzerland,18000
+Tor,88,exit,eo178,XL0woFBDx1KUygcVA0/Rn24ZM+c,23.129.64.178,United States,8500
+Tor,89,guard,TORKeFFORG37,BtA0qnk/VxzyI6t4GkC1q6yqWpU,193.189.100.204,Sweden,45000
+Tor,89,middle,speakFreely,qa+pM9GM8+9NNJJU/6Pbte5Cyiw,37.221.208.71,Hungary,63000
+Tor,89,exit,winner,/gUt1gGBWRmECFBlwFkxq9SCZgM,23.129.64.151,United States,7500
+Tor,90,guard,kodakblack,KG9T3Yeu4LCFw080JZr8CwmiWfw,193.200.229.34,Norway,28000
+Tor,90,middle,firstRelay,aDJ6phjWtXVeToCAUwoopfW7/TI,84.252.123.112,Germany,21000
+Tor,90,exit,fin,l6YWRsBVd+uLJQJ+ueniEJg6eJo,23.129.64.170,United States,6700
+Tor,91,guard,Aurorara,1V57PT3orIP5TLPiZNJ/NWVtpiM,57.129.18.204,Germany,210000
+Tor,91,middle,biggk,O/a7Tdt44wMdb8nRy0Jg5AFbFcc,96.9.98.4,United States,4600
+Tor,91,exit,eo193,jKM2iLmPDqGyU+yvrFHzUDK93Kw,23.129.64.193,United States,6600
+Tor,92,guard,fastforward,Xoxu1OBgQwHe1oEMLq0LiT3dFp8,185.150.28.13,Switzerland,95000
+Tor,92,middle,ForPrivacyNET,mjOPOExf06NgTjJQzPX192Kddxc,185.220.101.202,Germany,41000
+Tor,92,exit,goldwasser,ImKRHFNhjv9hA1a8QLmimP7B2jc,23.129.64.137,United States,5000
+Tor,93,guard,YukisTorRelay,LiiaFLZJ9QDBlL1W3uKPCg11Uzw,91.56.13.91,Germany,96000
+Tor,93,middle,PancakeWhore,8A7C4KLKeaV/56CRigh5h3R9dy0,94.154.159.96,United States,33000
+Tor,93,exit,eo196,i+p7kA1IISSrK6cL3pZUJVBc2MQ,23.129.64.196,United States,4700
+Tor,94,guard,Nethergrog,EUVV+GZNMXu5YWwCgQqKB4BJ6uM,162.19.204.163,France,60000
+Tor,94,middle,ElectricThing,xyGn/ghjjmEpPVW9cXwbMwlYQX4,206.71.158.54,The Netherlands,140000
+Tor,94,exit,eo193,jKM2iLmPDqGyU+yvrFHzUDK93Kw,23.129.64.193,United States,6600
+Tor,95,guard,PeachUnknown,H7nMvgLPEJeOqxaUOXOsXFSPokM,79.141.174.124,Sweden,63000
+Tor,95,middle,prsv,CpalHa8IdwJ/vPRZL7xFLcRpypo,162.19.79.247,France,67000
+Tor,95,exit,schuetzdich,76gqxLXXFZcjLReun+UdO4bWCfc,45.86.153.248,Germany,74000
+Tor,96,guard,ytcracker,V29pW9WC4xihQBDkpMhPmKlh/jE,64.65.0.50,United States,44000
+Tor,96,middle,Tordel2,cVWQoeFlS4l8bqx2mcyafKnvAKs,5.181.134.99,The Netherlands,22000
+Tor,96,exit,bowden,pbyQi1JNl03Yu5vVGr3fJ5jxJX8,23.129.64.133,United States,5500
+Tor,97,guard,ForPrivacyNET,rfDVGUbaMpTB8kKwrK3JH/XwWO8,185.220.101.206,Germany,31000
+Tor,97,middle,Weltbank,ImA3p/NtDJ9FtqRoEpghpLm3aiI,147.135.214.61,France,32000
+Tor,97,exit,winner,/gUt1gGBWRmECFBlwFkxq9SCZgM,23.129.64.151,United States,7500
+Tor,98,guard,rexIndex2,uNp517imvqG1emgnRJhGmoxRhWU,77.90.52.145,Germany,100000
+Tor,98,middle,fluffypancakes003nl,CcN1GE3pmc4bSsA0GQ9an5Fkefk,185.227.70.177,The Netherlands,23000
+Tor,98,exit,eo211,MLAzU8GCNuhGNlPji+sNsflNp+o,23.129.64.211,United States,7500
+Tor,99,guard,ObsidianDefender,XtiLDcQN2QD/7F4wD3ooxsRIEJQ,89.58.49.219,Germany,56000
+Tor,99,middle,Digitalcourage4ip6b,diIT0yewp2BX9LYc1YftQjjNkA4,185.220.101.109,Germany,60000
+Tor,99,exit,eo188,UwozKircr21DEqBza83feWoJcls,23.129.64.188,United States,5900
+Geo,0,guard,NTH11R3,sJq2Z+l0cKqqWQB3ODokQ3ImoSc,192.42.116.208,The Netherlands,28000
+Geo,0,middle,DakotaEdge2,3jozpFb170vEhgoTrcPGt+0YLvo,178.32.41.33,France,150000
+Geo,0,exit,eo178,XL0woFBDx1KUygcVA0/Rn24ZM+c,23.129.64.178,United States,8500
+Geo,1,guard,marcuse13,eK1ur2kE53cQNinWV5dm22Rmqj4,178.20.55.182,France,27000
+Geo,1,middle,Quetzalcoatl,e9QWZSAQt8QiAr5A90mkFwA+zSw,188.68.49.235,Germany,62000
+Geo,1,exit,eo179,2tiBXBroKxiI9EcgyUFrH4kbNjk,23.129.64.179,United States,6500
+Geo,2,guard,freedomHostingByXOR,y8yF8zXiBwX3kc/IaFlRyQ4kE00,185.231.33.38,Seychelles,190000
+Geo,2,middle,ChickenRun,e8edvuJ8kVeX6KK4O+oNcXFqcTo,209.133.196.18,United States,27000
+Geo,2,exit,NotYourWifi,8vT0ATir0Vgo9VLWuqCInrVWWpo,72.5.43.62,Romania,10000
+Geo,3,guard,TORnadoExit01,VVFBoPhbVzHi6JTVE4SOYLgtjjw,109.71.252.88,Germany,120000
+Geo,3,middle,RuneByteNET,0rfZTrMKy5zA6MLZCjQJZVfLqQg,185.40.4.143,Norway,38000
+Geo,3,exit,eo206,9jmdtyTD+GiDPzjXAfDjEasEi6g,23.129.64.206,United States,5300
+Geo,4,guard,arbertDelroth,BDK+6Cn8sVXOks9Bi3KA+YSeEtA,77.109.152.77,Switzerland,120000
+Geo,4,middle,lunar10,YBIGnKTeV4DrmgUY8VpYonT+bzg,203.55.81.2,France,40000
+Geo,4,exit,dorza,RqYDLuWuQGjYu+LVk4+YpNUw4cE,23.129.64.168,United States,8000
+Geo,5,guard,zgato,+HRNnqi9QMnH19NVXRIQuTsu3Yo,103.167.234.56,Poland,25000
+Geo,5,middle,Charybdis2,He7NkGr+z0lrfcHkCCn0VjUXtMw,92.205.129.7,France,63000
+Geo,5,exit,manning,mom23vWO4eRCUbK0WXgmx2hq818,23.129.64.142,United States,6000
+Geo,6,guard,bereznik,XVJoLo/v7W8zmXX7e5OHUqNrQvg,94.23.168.79,France,82000
+Geo,6,middle,Freebsd2324,H3jUfSC6Os+dzlD0Uzpc6iMs85g,148.251.125.117,Germany,150000
+Geo,6,exit,eo187,DxQADibWP6k8lrPwj0UxlicV1bs,23.129.64.187,United States,6500
+Geo,7,guard,F3Netze,nVp6gbxhlFVc51H3X7GW5KOYLMU,185.220.100.243,Germany,89000
+Geo,7,middle,paradeiser,0k0MKKtIdoz4t53XYtYdtP0BVnc,109.70.100.3,Austria,50000
+Geo,7,exit,eo202,YJBFU8HEDzxQPz8Q4vf23r7NbL8,23.129.64.202,United States,5800
+Geo,8,guard,Spigen,h02EOCyJLz9hzJ4Qa/CIQ94Lhlo,192.42.113.102,The Netherlands,62000
+Geo,8,middle,charon,yGxTjvCiTgEDQvMNvKzCp+t8qDM,94.72.111.123,United Kingdom,25000
+Geo,8,exit,eo183,gDb0KH7WHODEK1c0+HPuecDMfic,23.129.64.183,United States,6100
+Geo,9,guard,Quetzalcoatl,zKmXONZOz44tR4+rqdOO2ua13P0,45.80.158.75,The Netherlands,14000
+Geo,9,middle,raschera,y/07MDK/ucL4shoM0NTn0JimMXs,64.190.76.3,Italy,27000
+Geo,9,exit,schuetzdich,76gqxLXXFZcjLReun+UdO4bWCfc,45.86.153.248,Germany,74000
+Geo,10,guard,Ulcerate,A4q7t1Kxy+63ebpMxzsi9lf+428,57.128.220.107,Poland,63000
+Geo,10,middle,iLoveSimpleX,3mW950gW6UADb8xfQ5JsZd4Iwcc,178.17.170.144,Moldova,10000
+Geo,10,exit,eo196,i+p7kA1IISSrK6cL3pZUJVBc2MQ,23.129.64.196,United States,4700
+Geo,11,guard,itomori,hhvP3RSJc5hef+l8dFXJ5KxOE74,157.90.212.53,Germany,73000
+Geo,11,middle,cozybeardev,pKmLTk67qt5cgibQQVVegrWTQvM,176.65.149.100,The Netherlands,56000
+Geo,11,exit,eo186,fTZMnJO77Cuv/7fJiqIN4CVbWlE,23.129.64.186,United States,7900
+Geo,12,guard,Charybdis,y/Wexbn9EICSrpFJ79rkH4gtpmk,92.205.129.119,France,54000
+Geo,12,middle,kerpatenko,WSZ+w9x1fPhQ2g9a8Dq15px1/rc,185.246.188.73,The Netherlands,98000
+Geo,12,exit,horgabost,HStkAZcBObKwANYzSWifErPjJyM,23.129.64.174,United States,6600
+Geo,13,guard,ForPrivacyNET,jN9Kda52MaAV4CDP+dzpU2zkxWs,185.220.101.55,Germany,46000
+Geo,13,middle,Teuntje,XBJKJ//WWMt2FlcY2r/9QJP1yCc,192.42.113.101,The Netherlands,65000
+Geo,13,exit,NotYourWifi,8vT0ATir0Vgo9VLWuqCInrVWWpo,72.5.43.62,Romania,10000
+Geo,14,guard,geheimkaisx,zRC1KsyKCtfRtMQLhJdxvR0N/0U,5.181.51.51,Germany,9400
+Geo,14,middle,LupusreginaBeta,v1Dgnu0luChhz5XhqqQtz+9T5dE,213.113.2.171,Sweden,59000
+Geo,14,exit,eo184,c7ur0VBJGc4WO9Req5TTym1RQlo,23.129.64.184,United States,8000
+Geo,15,guard,KoopaRelay,AsfuzN94FPui2xy67QANBuijLug,212.51.151.254,Switzerland,120000
+Geo,15,middle,r0cket01i7,7S40hpzMvOkyHeu7lXUHqFoVXO8,45.84.107.198,Sweden,45000
+Geo,15,exit,ellsburg,p4NGoB7tPvZtK6XjSpZJPRtDwEg,23.129.64.135,United States,6000
+Geo,16,guard,DFRI49,RsvQ6wjfpTFTM1jUcNgwgda+g+0,171.25.193.35,Sweden,22000
+Geo,16,middle,NTH11R1,5OAgupmXur8RzA5E9iuqqG6Y+3M,192.42.116.208,The Netherlands,24000
+Geo,16,exit,goldwasser,ImKRHFNhjv9hA1a8QLmimP7B2jc,23.129.64.137,United States,5000
+Geo,17,guard,pinselohrkatze00,dtLrqCu8yj358lSpqDcqEKJvPRQ,134.130.172.229,Germany,38000
+Geo,17,middle,NFOrce,DZ/Qkaz4CLOay9c9gtn7o1FUUiM,185.107.57.105,The Netherlands,130000
+Geo,17,exit,merkle,UyHfqm1Zd+sFuA7p2cikiTkeNWY,23.129.64.156,United States,5200
+Geo,18,guard,relay0vpsfree0cz,97Ak2wLGARhcIC4m3/0q1SXBajY,37.205.8.191,Czechia,37000
+Geo,18,middle,Elektra,pbI89GLakZvdlxczGicgZ5Fom4c,148.251.10.237,Germany,110000
+Geo,18,exit,ellsburg,p4NGoB7tPvZtK6XjSpZJPRtDwEg,23.129.64.135,United States,6000
+Geo,19,guard,dotsrcRelay1,tONUawWP62VabYaY2XwUWaLfjnc,130.225.244.90,Denmark,71000
+Geo,19,middle,relayon0129,VZ1B/IVRQ5zVY2V9aeID/2VpYqU,185.220.101.129,Germany,87000
+Geo,19,exit,swartz,7EnECisLXi3vaZ02ZOAzyeUabDE,23.129.64.148,United States,6000
+Geo,20,guard,Polyphemus2,BEQo2RDAN5MqB2O7CJdplD9rpkg,198.251.84.163,Luxembourg,49000
+Geo,20,middle,spitzkohl,ut7Ks9AVJMMMkl2QaX5tTyBJOns,109.70.100.66,Austria,38000
+Geo,20,exit,eo201,sJ87cimHj5l/qTki/iz8XptzkX8,23.129.64.201,United States,7400
+Geo,21,guard,Panama,mQf+8AfkdUcs9IwSrSQI6hAXyvs,62.210.181.63,France,49000
+Geo,21,middle,Kanellos,cLD9JjGMYFjTYwWcacrZzpylh8E,146.0.36.87,Germany,36000
+Geo,21,exit,eo211,MLAzU8GCNuhGNlPji+sNsflNp+o,23.129.64.211,United States,7500
+Geo,22,guard,anonymoushippotamus,telzxIiuGE5LAWZaZgFGbTvvAa8,95.169.191.6,Germany,11000
+Geo,22,middle,prsv,itFBaAeK7ZSQFAYz9xhnZw7M4eY,146.19.168.223,France,33000
+Geo,22,exit,eo179,2tiBXBroKxiI9EcgyUFrH4kbNjk,23.129.64.179,United States,6500
+Geo,23,guard,stitches,NjXOH+JOtSyhpZ42jxjGhqJxYpU,193.200.229.34,Norway,32000
+Geo,23,middle,w000000h000004,Txm4ghgmN3gljTMWURq4ja/CXyw,185.246.84.179,France,1400
+Geo,23,exit,eo189,2MaEt+xqU8jlQcR4xFozQzI9Qkw,23.129.64.189,United States,6000
+Geo,24,guard,Alishakuer,eWipSn+2+GU027BCDS4+joBrigw,84.200.125.118,Germany,63000
+Geo,24,middle,r0cket13i4,i59+59hWw6lNBB7LJOzgWbz3F8s,45.84.107.97,Sweden,47000
+Geo,24,exit,eo178,XL0woFBDx1KUygcVA0/Rn24ZM+c,23.129.64.178,United States,8500
+Geo,25,guard,dotsrcExit8,YqTmv+h1Q3h563mBw/wDENNQavU,185.129.61.8,Denmark,57000
+Geo,25,middle,pingj,ubJn7zcWSY2s9dec7dfQJYdjmKE,185.247.184.105,Italy,51000
+Geo,25,exit,manning,mom23vWO4eRCUbK0WXgmx2hq818,23.129.64.142,United States,6000
+Geo,26,guard,relay,/zBZ535dIvHDsgzL4SVpGtJ1iN0,185.163.45.247,Moldova,6300
+Geo,26,middle,torbogen3,K45kKBH/b2EGAPJwOrWeQvuaAMs,94.16.113.89,Germany,51000
+Geo,26,exit,young,WSelF+8do1QuRNLOubne0x2M6sE,23.129.64.152,United States,5400
+Geo,27,guard,prsv,1qdHYSTuVx4r6Llv6QxgGd4hLYE,31.58.214.94,United Kingdom,30000
+Geo,27,middle,prsv,i4qKH3YI384mB9LeN+lkNDAuulg,80.94.92.135,Romania,8600
+Geo,27,exit,gun,xyaIdq6E/4RlmuIR6OA+aKYQtIs,23.129.64.157,United States,6500
+Geo,28,guard,Orrion,10kUAn1W4rfUMQVvDIuID/LYsHo,138.201.54.59,Germany,91000
+Geo,28,middle,SwissNETLNOB,z+UvjBgNE9DXMMgYd06lAv8gc7Q,185.66.109.249,Switzerland,40000
+Geo,28,exit,eo185,xpeYB0jTH3q4i3+WizK6fafMQrE,23.129.64.185,United States,6500
+Geo,29,guard,NTH12R2,VdfFl5TG+GOwKffSVh1nQYwl/q4,192.42.116.209,The Netherlands,32000
+Geo,29,middle,Exits4Privacy,Lmp+EzqBvEA+OYSARtol3g4IWA0,192.76.160.136,Germany,160000
+Geo,29,exit,eo186,fTZMnJO77Cuv/7fJiqIN4CVbWlE,23.129.64.186,United States,7900
+Geo,30,guard,goldnpapi,g0hfIIDWdUuqyjEnMnYR9niynME,64.65.62.46,United States,11000
+Geo,30,middle,Liberation,u+r/JKnTQG3MlUhN6zt935ipmYA,87.236.199.239,Czechia,100000
+Geo,30,exit,schuetzdich,76gqxLXXFZcjLReun+UdO4bWCfc,45.86.153.248,Germany,74000
+Geo,31,guard,prsv,MH66EK+wgsacC5rrgYKpaKR47K4,45.148.10.111,The Netherlands,42000
+Geo,31,middle,F3Netze,nVp6gbxhlFVc51H3X7GW5KOYLMU,185.220.100.243,Germany,89000
+Geo,31,exit,eo199,mVG9Jp0YbfNrEnTPdKSqRdZvPEI,23.129.64.199,United States,6100
+Geo,32,guard,Islay,9Ic7PsMyW4HcNsfjitOl7RKy8zk,5.135.68.65,France,34000
+Geo,32,middle,Verox,ZG5+uxZgIsHK22yUtKsDqFCb9Dc,91.179.18.97,Belgium,24000
+Geo,32,exit,winner,/gUt1gGBWRmECFBlwFkxq9SCZgM,23.129.64.151,United States,7500
+Geo,33,guard,NFOrce,pdaLGJaWhdACcDWqLHJ7yrTYv2Y,185.107.57.105,The Netherlands,84000
+Geo,33,middle,prsv,QTTNxrWu/eh1+hIS2jgCAdm/ooY,51.77.214.113,France,100000
+Geo,33,exit,agnese,UruOXLJBaeBEJaXi83lm/i2i9rY,23.129.64.173,United States,8100
+Geo,34,guard,Weltbank,CEP2UiVYFOgQohsqFvzsBNDfDgo,147.135.214.61,France,42000
+Geo,34,middle,BEEzar,fu3VTlRX2gCeRskbvx9EPc7gGWg,144.76.159.218,Germany,90000
+Geo,34,exit,eo186,fTZMnJO77Cuv/7fJiqIN4CVbWlE,23.129.64.186,United States,7900
+Geo,35,guard,Digitalcourage4ip3a,ot0O8xgT6bf220NVBKQG4a0rdqs,185.220.101.106,Germany,75000
+Geo,35,middle,Logforme3,j2p4seqRfyvyIeh9FDYcBQpwzMM,213.65.242.20,Sweden,110000
+Geo,35,exit,dingledine,UCli7IhXadw9KG49KKeqwjBN2xk,23.129.64.162,United States,6400
+Geo,36,guard,RelayUli,5gB/S2v2OQVHC1WAe6mW7EjHLWs,57.131.24.118,France,40000
+Geo,36,middle,MyDockerRelay,KtK9cqljMuKnFzC81ogcppeRujc,83.167.224.198,Czechia,6600
+Geo,36,exit,sullyhelpstor,4JmcX0LRIgSqgDhlPbrNzh9A5/8,107.189.13.254,Luxembourg,24000
+Geo,37,guard,terNOicebeer22,QP3rFEkV40UpCBVTTjcl272roLA,185.40.4.38,Norway,48000
+Geo,37,middle,0000000000000000006,2hfs6JUmhQOY/9EZfnaEs91xPA8,213.64.109.169,Sweden,12000
+Geo,37,exit,young,WSelF+8do1QuRNLOubne0x2M6sE,23.129.64.152,United States,5400
+Geo,38,guard,prsv,XfqrrTGz/4pOBeqkDHbqERmMQO0,194.26.192.186,The Netherlands,29000
+Geo,38,middle,DFRI112,1Bb3yNg8rZE/PgkyABQXDVT+aqA,171.25.193.79,Sweden,32000
+Geo,38,exit,schuetzdich,76gqxLXXFZcjLReun+UdO4bWCfc,45.86.153.248,Germany,74000
+Geo,39,guard,pKD9jZ19N1LiTvsjOF3,N93xkG7j25YTCnF+pUZnxk2seN8,202.61.224.179,Germany,37000
+Geo,39,middle,DFRI137,svXgjUlIbEHKyvJ9h5X233uXMf4,171.25.193.132,Sweden,29000
+Geo,39,exit,fin,l6YWRsBVd+uLJQJ+ueniEJg6eJo,23.129.64.170,United States,6700
+Geo,40,guard,potential,m4FWXOmXDCBdHP8mVhcWCNhgPN4,37.59.29.77,France,95000
+Geo,40,middle,QuakePHOBOS,EzHU8g+Wef6p8ar6LqnJkqxvFy4,5.199.162.114,Lithuania,34000
+Geo,40,exit,schuetzdich,76gqxLXXFZcjLReun+UdO4bWCfc,45.86.153.248,Germany,74000
+Geo,41,guard,prsv,tGOF31aZjJgWYkg1sZPnnqW2ZJA,185.40.4.20,Norway,31000
+Geo,41,middle,Exits4Privacy,RKCtwH6XxNZguNDV53g3fCqNmVk,192.76.160.139,Germany,160000
+Geo,41,exit,sullyhelpstor,4JmcX0LRIgSqgDhlPbrNzh9A5/8,107.189.13.254,Luxembourg,24000
+Geo,42,guard,TORnadoExit01,VVFBoPhbVzHi6JTVE4SOYLgtjjw,109.71.252.88,Germany,120000
+Geo,42,middle,easybird,b+MKKlnpouhHI88F48UFG7QhddM,82.67.103.92,France,83000
+Geo,42,exit,eo209,4a/mlyQfZFe2xSoVhXa04RKi+JQ,23.129.64.209,United States,6600
+Geo,43,guard,SteinchesTORRelay,a9OhawoM/mST+ce0Ioz7GSRo84o,217.160.79.224,Germany,63000
+Geo,43,middle,bauruine,8MvLoMrOAlUNqoIrlMV5fdwfx4o,185.40.4.29,Norway,32000
+Geo,43,exit,perlman,1quJoTlndOh6MJaCAIsmZFsDoh8,23.129.64.159,United States,8500
+Geo,44,guard,Polyphemus13,/12Q7YnO1iY1jnB0EyBn4VfuukE,198.251.89.96,Luxembourg,27000
+Geo,44,middle,zgato,dyayEVJTGUBGwvh9TZluFDhYHRE,103.167.235.55,Germany,11000
+Geo,44,exit,nenapini,dh+a7RXJyMeB4XdDPNkUOehCq9Q,23.129.64.169,United States,7500
+Geo,45,guard,dotsrcRelay1,tONUawWP62VabYaY2XwUWaLfjnc,130.225.244.90,Denmark,71000
+Geo,45,middle,wokestaywokestay,19WtRnXTPZ3KrGHgfVupKmkI+Ro,149.202.79.129,France,32000
+Geo,45,exit,eo203,zOM1Kl8d/7gt8r5jfrOxoEjSJPs,23.129.64.203,United States,6100
+Geo,46,guard,2fer,jvOQoMqjH2rXpeK+eXbzNHaiRew,65.109.233.53,Finland,47000
+Geo,46,middle,Ulcerate,Fmly6bzq94qbLyjRqAFBhhuDuy4,5.189.176.236,France,17000
+Geo,46,exit,bowden,pbyQi1JNl03Yu5vVGr3fJ5jxJX8,23.129.64.133,United States,5500
+Geo,47,guard,punkpop,s9OYs4b68st4tEf7pGvyZIw/SM0,162.55.131.67,Germany,85000
+Geo,47,middle,Quetzalcoatl,xluagOpcb6MiUeqvppHfbcn6reE,45.141.215.238,Poland,10000
+Geo,47,exit,eo184,c7ur0VBJGc4WO9Req5TTym1RQlo,23.129.64.184,United States,8000
+Geo,48,guard,TorNode07dot4,TQJF0rb7IvgY2l7Aw6gzi3R0zgc,217.154.23.190,France,56000
+Geo,48,middle,torbogen3,K45kKBH/b2EGAPJwOrWeQvuaAMs,94.16.113.89,Germany,51000
+Geo,48,exit,eo203,zOM1Kl8d/7gt8r5jfrOxoEjSJPs,23.129.64.203,United States,6100
+Geo,49,guard,nobutaka,4vZ+7ByM0X0X0wm2OYbqbL0Y6iA,91.208.75.156,Romania,7600
+Geo,49,middle,frozone,xF/lxBrMN+TqRof/xUp08SRzna8,144.76.166.141,Germany,110000
+Geo,49,exit,turing,jmnyGcEqX3WFz2ReTprnIMPmzCs,23.129.64.150,United States,8300
+Geo,50,guard,bauruine,Es2bJPt/mB6AD4ajfe+ke0rlctw,78.142.18.219,The Netherlands,46000
+Geo,50,middle,Perseverance,UBYf9CsRuHxM3SEM+ctJCnsIjbs,87.236.195.216,Czechia,120000
+Geo,50,exit,eo181,njcV4OAZmgDUF09zNJ6l/BpxbgA,23.129.64.181,United States,8300
+Geo,51,guard,Quetzalcoatl,q3NmklxEZCTn7jMXm+q0sS2GlrY,45.9.156.101,Bulgaria,7500
+Geo,51,middle,Yogurt,7/QujsLwfFsoizcBwzai8lEuQfA,85.195.203.203,Switzerland,43000
+Geo,51,exit,phin,hHL24iqE3uCAehgQdOQRDjTlQPg,107.175.93.157,United States,7000
+Geo,52,guard,torrelay583481,bkkV6dhuYH1o2ZuYqaY/YOWILVc,78.46.92.172,Germany,150000
+Geo,52,middle,magic848relay,dFNrVDZUnXfrmhSOGeS7b4KF1eg,193.108.53.121,Switzerland,46000
+Geo,52,exit,swartz,7EnECisLXi3vaZ02ZOAzyeUabDE,23.129.64.148,United States,6000
+Geo,53,guard,vivaukraine,7KCOry0oylS9SH7kZBgvWJXeFog,94.130.52.190,Germany,120000
+Geo,53,middle,torexitams00,guJwiVekHtoIGe4cX/w+LcOLn+k,45.66.35.20,The Netherlands,160000
+Geo,53,exit,bonobo,PlYTZEhcg/V7LiiZbd71SD1lmig,23.129.64.224,United States,6100
+Geo,54,guard,tr3,TdauV04Sc2csh5is0HuH7wiCTpU,45.132.126.26,Germany,93000
+Geo,54,middle,r0cket08i7,2A+SPj8EppSFRGqn9w1V/XRekIY,45.84.107.172,Sweden,58000
+Geo,54,exit,horgabost,HStkAZcBObKwANYzSWifErPjJyM,23.129.64.174,United States,6600
+Geo,55,guard,prsv,7oltdqUyrnwGdvwCs58uyzstgmY,135.125.183.193,France,82000
+Geo,55,middle,Quetzalcoatl,L9sOCMVjq10iX9vVU9EXyW0RYO0,45.138.16.164,Poland,28000
+Geo,55,exit,schuetzdich,76gqxLXXFZcjLReun+UdO4bWCfc,45.86.153.248,Germany,74000
+Geo,56,guard,torexitams07,/bISpHpYzMWPHq3Bzh202swjNuk,45.66.35.27,The Netherlands,120000
+Geo,56,middle,prsv,ur/s/vB+dUVQpz2/0HOmKAfywEg,91.219.23.77,Germany,22000
+Geo,56,exit,diffie,BvC7TN9NdeXoJlpicMENL9/mSqo,23.129.64.154,United States,4600
+Geo,57,guard,effiorgoulu,dCCRSG0Ec0xX2XvO+1PSLtC3eIE,185.67.82.114,Finland,26000
+Geo,57,middle,StarAppsTrenton,dOi2gEKid0iEu/Z+Q6vsTZ5d9Zo,84.234.21.32,Switzerland,58000
+Geo,57,exit,eo213,5JdYyjP8/AjJyfGD09OCLXA9iFs,23.129.64.213,United States,5900
+Geo,58,guard,Quetzalcoatl,9ybZSaqFMmcb8kk92kpBf98Ql/E,45.141.215.114,Poland,23000
+Geo,58,middle,ce2cb4203f79,iW6bboOEt2DHkRFcC1vHlV4YmWU,87.106.86.231,Germany,97000
+Geo,58,exit,Andr0medaTF,xG/tTWWCx5ZIlZ6TS2zn1A4sDyc,205.185.116.215,United States,3100
+Geo,59,guard,ForPrivacyNET,/HKPMpyS1npDXvuh00tZM9qmD2I,185.220.101.39,Germany,47000
+Geo,59,middle,giovanna,ETerH4TsLVLfsZFXF/FP8aEOs5I,185.227.68.78,Finland,26000
+Geo,59,exit,keite,2FaXfCglfscN+TeyywborJiUBhM,23.129.64.175,United States,8000
+Geo,60,guard,BiggerBetter,e4QvtIz/GYmMgzahHKo/QlyQ+bU,88.151.194.118,Azerbaijan,87000
+Geo,60,middle,NTH22R7,7j5GZFFmZ6SpTXlxgsG/V5Ygdvk,192.42.116.174,The Netherlands,19000
+Geo,60,exit,perlman,1quJoTlndOh6MJaCAIsmZFsDoh8,23.129.64.159,United States,8500
+Geo,61,guard,0x37A1AE0C,k5dRLoymIZ8KsERmRTKJ9iKzXeA,94.247.217.230,Switzerland,10000
+Geo,61,middle,PRQseTORexit8,o8I+8h/3U3GOsUZDEgvPc8LMAmM,88.80.26.2,Sweden,19000
+Geo,61,exit,eo213,5JdYyjP8/AjJyfGD09OCLXA9iFs,23.129.64.213,United States,5900
+Geo,62,guard,TORKeFFORG31,64TmaEok4NpPk+2Pfjwgcr3c2BM,193.189.100.198,Sweden,45000
+Geo,62,middle,f89g65f21,h7NVfz55IhfivE6ZI+rKSuxbqcM,84.50.179.180,Estonia,21000
+Geo,62,exit,mathewson,NAfFz2p4ukdr8XriBjX0sioAyxc,23.129.64.163,United States,8300
+Geo,63,guard,flowjob00,2ihKElmQq9e9iu42fYjHhKXruyA,188.68.32.174,Germany,28000
+Geo,63,middle,r0cket09i0,z5LMjLDaOi2bniWQOcEEBseoZ08,45.84.107.33,Sweden,50000
+Geo,63,exit,llandaf,Nc/V3CZwnodYM3qs1QiT4TYw+gE,23.129.64.166,United States,7700
+Geo,64,guard,Quetzalcoatl,70zR82noCA37WkYYfPqXaNeFcII,45.141.215.80,Poland,11000
+Geo,64,middle,blix,vSvEFdXYrjw0Qw5w7ILPOwxhvd8,185.177.126.118,The Netherlands,170000
+Geo,64,exit,fin,l6YWRsBVd+uLJQJ+ueniEJg6eJo,23.129.64.170,United States,6700
+Geo,65,guard,vini,RrV360GWKgjhBX7m0GNfEu3xHfU,195.201.41.13,Germany,70000
+Geo,65,middle,elenagb1,S48Pi7GPHZrcH+flSz09YFwZGac,185.233.100.23,France,14000
+Geo,65,exit,eo200,wuIDAwMdvRsbvHxLGv2jsV96GDs,23.129.64.200,United States,5400
+Geo,66,guard,torrelay583481,bkkV6dhuYH1o2ZuYqaY/YOWILVc,78.46.92.172,Germany,150000
+Geo,66,middle,SrsTubesRelay02,98w3+Y4l5168l7/U+nlVBToDcLw,194.14.0.243,Sweden,38000
+Geo,66,exit,sullyhelpstor,4JmcX0LRIgSqgDhlPbrNzh9A5/8,107.189.13.254,Luxembourg,24000
+Geo,67,guard,F3Netze,PInIDiaZ+2NYu7ZP3JVHr8tcA/c,185.220.100.240,Germany,120000
+Geo,67,middle,NFOrce,pdaLGJaWhdACcDWqLHJ7yrTYv2Y,185.107.57.105,The Netherlands,84000
+Geo,67,exit,tra,HzGXCguWrlt7I3FytOAUgeZe8+g,23.129.64.172,United States,7600
+Geo,68,guard,flowjob07,9ohDkgJRPypSeX08q3QPxDqK364,92.60.36.222,Germany,35000
+Geo,68,middle,MyWatchBegins,8+8+2Kqo79v1dIXjS7Q0houZ/Kk,152.53.184.161,Austria,43000
+Geo,68,exit,eo197,XwJuwh/OibqHT8u/EECMKbkqgCI,23.129.64.197,United States,5500
+Geo,69,guard,MonaLissa,A3OCT+IBddxxdl4IuIeMBD1mZhU,45.140.164.67,France,33000
+Geo,69,middle,D9agonfly,0V2aG9YpfFXnOoqy5jJg62LJXE4,168.119.2.55,Germany,120000
+Geo,69,exit,eo183,gDb0KH7WHODEK1c0+HPuecDMfic,23.129.64.183,United States,6100
+Geo,70,guard,Quetzalcoatl,D0wlLfSMayM7x+Y2kxK9DharK/w,2.58.56.93,The Netherlands,21000
+Geo,70,middle,chooThaineha,kYknIPkmLLN7kacXbT0igPevFL4,46.4.66.178,Germany,150000
+Geo,70,exit,zimmermann,ITofkY7SKPXzrDfn5JOPWjpIf78,23.129.64.153,United States,5700
+Geo,71,guard,Tor1EerieIndiana,L3FW9DPUa/QTOAaLPUjeOYd7PQ8,212.227.127.105,United Kingdom,76000
+Geo,71,middle,BehemothLTDUK1,ZXf0qqKOUSHPx4zU+xTUWAW4nks,51.68.220.65,France,99000
+Geo,71,exit,dorza,RqYDLuWuQGjYu+LVk4+YpNUw4cE,23.129.64.168,United States,8000
+Geo,72,guard,Quetzalcoatl,yC9GE6Jvfihro9hc8ntgJ8Nf3yc,5.45.98.162,Germany,45000
+Geo,72,middle,legalizeprivacy,qS2D6PmJQTNQdv+kdmC7h+sK8uI,185.254.196.141,Ukraine,14000
+Geo,72,exit,binney,fjNlFQBl5EQlSa7UIRrMxy9++8c,23.129.64.132,United States,5800
+Geo,73,guard,mikrogravitation1,MxtEMYif3FAkyi/fN4MiUx/5ZCo,45.14.233.151,Germany,68000
+Geo,73,middle,r0cket14i3,ebV4v1wCUX7cwfucAPcrD9sDv8s,45.84.107.54,Sweden,49000
+Geo,73,exit,goldwasser,ImKRHFNhjv9hA1a8QLmimP7B2jc,23.129.64.137,United States,5000
+Geo,74,guard,yourPrivacyMatter,myYK/oj2nWx8mBFz4hrYJDynxCo,109.131.205.87,Belgium,100000
+Geo,74,middle,torrelay,CfGTZYfVqCq815sRWZwETnLBOEA,185.163.45.253,Moldova,7500
+Geo,74,exit,eo218,VdGRLJsMKpgmfe7bhvHw2dXJCN0,23.129.64.218,United States,5900
+Geo,75,guard,TORKeFFORG24,cn01pCrKaBnbT9VHGrag7iDQLpQ,193.189.100.204,Sweden,37000
+Geo,75,middle,NTH33R6,NLiVcDP2b+vT4GE+eobHJLX2YqA,192.42.116.185,The Netherlands,16000
+Geo,75,exit,schuetzdich,76gqxLXXFZcjLReun+UdO4bWCfc,45.86.153.248,Germany,74000
+Geo,76,guard,Unnamed,C+hF/Bg9G7wgwa6tsiBebKqNJKI,95.216.98.17,Finland,28000
+Geo,76,middle,Aurorara,1V57PT3orIP5TLPiZNJ/NWVtpiM,57.129.18.204,Germany,210000
+Geo,76,exit,ageis,eQHZnUo85OSdOyooEUbAFLBYZDY,23.129.64.130,United States,5200
+Geo,77,guard,katharina,7BbysdE/ZYNv0reFaZWCjRjzLMA,45.125.65.45,Lithuania,25000
+Geo,77,middle,Quetzalcoatl,I5Ls0UgktGwPLqrEhiukDsm5MK4,45.141.215.238,Poland,17000
+Geo,77,exit,eo204,nPkGwXmimhvrHgTcIBJS0b/+zj0,23.129.64.204,United States,5900
+Geo,78,guard,Quetzalcoatl,ZGtOObSfMDtLVSqPPLuPzUC+frU,45.141.215.40,Poland,12000
+Geo,78,middle,Unnamed,5d6p9lcCB9uYQcoEwkC83P7DIA0,5.2.78.126,The Netherlands,4600
+Geo,78,exit,eo192,1UWIcNK3RCFskJih6Ime6nGfHpI,23.129.64.192,United States,5600
+Geo,79,guard,dotsrcRelay2,rHwPnVfa2tXY9FaO4VQ+8+IqR84,130.225.244.90,Denmark,55000
+Geo,79,middle,bl4ckrid3r,Ni+gSTJYAlGQkMhrxD/Dxqy/VhM,141.79.10.16,Germany,77000
+Geo,79,exit,eo195,QZr7BNs/8/BydNXU9mPV16PtR44,23.129.64.195,United States,5400
+Geo,80,guard,terNOicebeer17,Mof3nZwWh79/Op0UA2nKZNL9ERs,185.40.4.150,Norway,55000
+Geo,80,middle,Liberation,DpjqBabaD6EcDDwyvw1uT4sNHbg,87.236.199.239,Czechia,110000
+Geo,80,exit,eo178,XL0woFBDx1KUygcVA0/Rn24ZM+c,23.129.64.178,United States,8500
+Geo,81,guard,prsv,GwquIBLbjjZKQnOZBiSeHolZohY,57.129.44.38,Germany,51000
+Geo,81,middle,noack14i2,7ZcB2b5FYf5kiB+yzeFNcq6wnp8,195.47.238.178,Sweden,23000
+Geo,81,exit,Andr0medaTF,xG/tTWWCx5ZIlZ6TS2zn1A4sDyc,205.185.116.215,United States,3100
+Geo,82,guard,F3Netze,k5Em6k0lyyEqeXRsEzGU+KJMQ1s,185.220.100.253,Germany,110000
+Geo,82,middle,elenagb3,MkBTyKKWvzGkqQjLQHVF2pLfMvg,185.233.100.23,France,20000
+Geo,82,exit,sullyhelpstor,4JmcX0LRIgSqgDhlPbrNzh9A5/8,107.189.13.254,Luxembourg,24000
+Geo,83,guard,deimos,2xYptZcH90Sgx5M+VraAJ4b/wxc,94.23.76.52,Portugal,84000
+Geo,83,middle,Exits4Privacy,MJ2iP3CIjYfbR5J2YQCVJChNEiM,192.76.160.134,Germany,160000
+Geo,83,exit,sullyhelpstor,4JmcX0LRIgSqgDhlPbrNzh9A5/8,107.189.13.254,Luxembourg,24000
+Geo,84,guard,algrothendieck3,BClE4TlQjmqElaofbzINEIfYSTA,80.67.172.162,France,26000
+Geo,84,middle,chaosDelroth,3QyO7FykAqn6RHjxDDGkQPcfaIU,195.201.9.37,Germany,110000
+Geo,84,exit,eo205,YpaIIsQws4iFaMWd6ns8TRpmp74,23.129.64.205,United States,6700
+Geo,85,guard,prsv,m5Y53D/vUws9huCEgbXf9MnfLQ4,54.37.80.38,France,41000
+Geo,85,middle,fastforward,Xoxu1OBgQwHe1oEMLq0LiT3dFp8,185.150.28.13,Switzerland,95000
+Geo,85,exit,schuetzdich,76gqxLXXFZcjLReun+UdO4bWCfc,45.86.153.248,Germany,74000
+Geo,86,guard,fluffypancakes002de,N3zJezK8bNXxftJCaxZ1nrvVFVE,159.195.23.56,Germany,67000
+Geo,86,middle,UnshakledGibson,t/dzMAoriQh1Y6EGyaToCp7ShfI,91.134.135.76,France,57000
+Geo,86,exit,eo196,i+p7kA1IISSrK6cL3pZUJVBc2MQ,23.129.64.196,United States,4700
+Geo,87,guard,Unnamed,gNNsQ8ySJtEGuZAR3krRVER+FeY,85.215.152.106,Germany,58000
+Geo,87,middle,prsv,zqySHXPTtDHdlpVFsw3TK2h9sK8,80.94.92.135,Romania,9700
+Geo,87,exit,eo182,Vq+ttOUFVSZO6pEIDMdzJzlog3g,23.129.64.182,United States,6000
+Geo,88,guard,Quetzalcoatl,I5Ls0UgktGwPLqrEhiukDsm5MK4,45.141.215.238,Poland,17000
+Geo,88,middle,r0cket01i6,pv0qbiqjysPG8VwmREXkw7J7Mdw,45.84.107.198,Sweden,44000
+Geo,88,exit,eo205,YpaIIsQws4iFaMWd6ns8TRpmp74,23.129.64.205,United States,6700
+Geo,89,guard,MyWatchBegins,8+8+2Kqo79v1dIXjS7Q0houZ/Kk,152.53.184.161,Austria,43000
+Geo,89,middle,WorldofMatthew,YcvXrOC5tkteMYyR+Lbeo7SmU4I,107.189.30.86,Luxembourg,72000
+Geo,89,exit,young,WSelF+8do1QuRNLOubne0x2M6sE,23.129.64.152,United States,5400
+Geo,90,guard,F3Netze,lFT4LUfroMsMKkv+eWYYHb8QgUc,185.220.100.242,Germany,92000
+Geo,90,middle,bauruine,KSU2UxCiSHeBun50PhVeR1PB0+s,185.40.4.92,Norway,31000
+Geo,90,exit,eo200,wuIDAwMdvRsbvHxLGv2jsV96GDs,23.129.64.200,United States,5400
+Geo,91,guard,idideditheconfig,sfQQwPHCE55wE/yNymzB8/EcLVQ,5.9.122.206,Germany,5500
+Geo,91,middle,ConeOfLIGHT,qg2QyFIAoKZMvFirTWqgBYUwvOQ,94.23.70.32,France,78000
+Geo,91,exit,kaminsky,wAzuZh5yZ+Nj0SlLBNr3ggBXy3U,23.129.64.139,United States,7400
+Geo,92,guard,3AoTTAG0gJ,73wdzCx+Pa7dq5KW+jGAJoCQ/48,151.242.147.49,Germany,67000
+Geo,92,middle,prsv,oqeXp/in538BHuTpPTUOYrZ4Ukk,80.94.92.135,Romania,7600
+Geo,92,exit,eo190,AIL+GSEtloHusjIKQq3wOQ0jFYU,23.129.64.190,United States,6900
+Geo,93,guard,ForPrivacyNET,s4/nVNfl4Vy4p97fiWAN0HPaddQ,185.220.101.197,Germany,43000
+Geo,93,middle,torionic,COQxRSuJPY2bv/i3aGbDfKqT2aI,51.195.41.230,France,82000
+Geo,93,exit,eo187,DxQADibWP6k8lrPwj0UxlicV1bs,23.129.64.187,United States,6500
+Geo,94,guard,Johand,f9LNYL2FZvhHXVaQt+feuJGBLT4,185.181.62.109,Norway,29000
+Geo,94,middle,FTPhalifaxRWTH,2ngUTHCxWuPrBN40Dcj624Dx9JU,137.226.34.45,Germany,75000
+Geo,94,exit,donaldsbutthole,fvKsJFE1jml/orAUA63Dko1R+34,23.129.64.167,United States,6400
+Geo,95,guard,devxpaygate,nKyFZMFeevVgCKxqwZrFfufkWFs,130.61.131.20,Germany,29000
+Geo,95,middle,giraffe,JnOTCiLArt8/viwUFlMKE3jmyg4,109.70.100.71,Austria,37000
+Geo,95,exit,eo223,kpTCmZjduC2fSXKglVQreE4jxZA,23.129.64.223,United States,5600
+Geo,96,guard,NeelTorExit1B,WujWFIyzsVOsYwOYikNIlJoSZvU,38.135.24.30,United States,15000
+Geo,96,middle,ObsidianDefender,XtiLDcQN2QD/7F4wD3ooxsRIEJQ,89.58.49.219,Germany,56000
+Geo,96,exit,sullyhelpstor,4JmcX0LRIgSqgDhlPbrNzh9A5/8,107.189.13.254,Luxembourg,24000
+Geo,97,guard,TorHet,d43LnbbN1f8vGoVXEwi0ktbf+WI,5.9.14.25,Germany,52000
+Geo,97,middle,HjelmEnterprises01,gN9Yu48VQKcePaFZABm6udnQD0k,192.121.108.236,Sweden,12000
+Geo,97,exit,eo193,jKM2iLmPDqGyU+yvrFHzUDK93Kw,23.129.64.193,United States,6600
+Geo,98,guard,ForPrivacyNET,52+oIDwLH9PysTvDFuCrupxWDRE,185.220.101.53,Germany,53000
+Geo,98,middle,TechniverseNET,21C4jA/+KAAaJDxzNwQDeOwQLoI,152.53.118.246,Austria,21000
+Geo,98,exit,dimensiondoor,4jTFVoiTRUcRJA2tiG/jFe8nXds,23.129.64.176,United States,9300
+Geo,99,guard,merc,B9js1zBXIu43+gpAi8DSA0ub4Ho,136.243.147.89,Germany,100000
+Geo,99,middle,prsv,7oltdqUyrnwGdvwCs58uyzstgmY,135.125.183.193,France,82000
+Geo,99,exit,turing,jmnyGcEqX3WFz2ReTprnIMPmzCs,23.129.64.150,United States,8300

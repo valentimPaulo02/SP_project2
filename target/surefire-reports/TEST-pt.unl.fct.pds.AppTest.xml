@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="pt.unl.fct.pds.AppTest" time="3.53" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="pt.unl.fct.pds.AppTest" time="3.515" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="25"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="PT"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-25\bin"/>
-    <property name="sun.java.command" value="C:\Users\valen\AppData\Local\Temp\surefire12114076145326624784\surefirebooter-20251204150105926_3.jar C:\Users\valen\AppData\Local\Temp\surefire12114076145326624784 2025-12-04T15-01-05_038-jvmRun1 surefire-20251204150105926_1tmp surefire_0-20251204150105926_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\valen\AppData\Local\Temp\surefire14976752331273304654\surefirebooter-20251204160436425_3.jar C:\Users\valen\AppData\Local\Temp\surefire14976752331273304654 2025-12-04T16-04-36_317-jvmRun1 surefire-20251204160436425_1tmp surefire_0-20251204160436425_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\valen\Desktop\SP_project2\target\test-classes;C:\Users\valen\Desktop\SP_project2\target\classes;C:\Users\valen\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\valen\.m2\repository\com\maxmind\geoip2\geoip2\4.4.0\geoip2-4.4.0.jar;C:\Users\valen\.m2\repository\com\maxmind\db\maxmind-db\3.2.0\maxmind-db-3.2.0.jar;C:\Users\valen\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.19.2\jackson-databind-2.19.2.jar;C:\Users\valen\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jsr310\2.19.2\jackson-datatype-jsr310-2.19.2.jar;C:\Users\valen\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.19.2\jackson-core-2.19.2.jar;C:\Users\valen\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.19.2\jackson-annotations-2.19.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\valen\AppData\Local\Temp\surefire12114076145326624784\surefirebooter-20251204150105926_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\valen\AppData\Local\Temp\surefire14976752331273304654\surefirebooter-20251204160436425_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="25+37-LTS-3491"/>
@@ -59,50 +59,50 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="69.0"/>
   </properties>
-  <testcase name="testConsensusParsing" classname="pt.unl.fct.pds.AppTest" time="0.276"/>
-  <testcase name="testSelectorsEvaluationAndCsv" classname="pt.unl.fct.pds.AppTest" time="3.129">
+  <testcase name="testConsensusParsing" classname="pt.unl.fct.pds.AppTest" time="0.257"/>
+  <testcase name="testSelectorsBuildOneCircuit" classname="pt.unl.fct.pds.AppTest" time="0.208"/>
+  <testcase name="testSelectorsEvaluationAndCsv" classname="pt.unl.fct.pds.AppTest" time="3.03">
     <system-out><![CDATA[=== Simple Evaluation Summary ===
 Trials per selector: 100
 
 === Tor Summary ===
 Requested trials: 100
 Completed circuits: 100
-Distinct-country circuits: 71 (71,00%)
+Distinct-country circuits: 70 (70,00%)
 Subnet collisions (/16): 0 (0,00%)
-Avg guard BW: 54225,0, avg middle BW: 52942,0, avg exit BW: 11061,0
+Avg guard BW: 53271,0, avg middle BW: 53223,0, avg exit BW: 10173,1
 Top guards:
-  prsv -> 10
-  Quetzalcoatl -> 8
-  Unnamed -> 3
-  anion -> 2
+  prsv -> 8
+  Quetzalcoatl -> 4
+  ForPrivacyNET -> 2
   Kanellos -> 2
+  Unnamed -> 2
 Top exits:
-  schuetzdich -> 6
-  zimmermann -> 4
-  turing -> 4
-  eo206 -> 3
-  FreeNODE -> 3
+  merkle -> 5
+  schuetzdich -> 5
+  eo207 -> 4
+  eo193 -> 4
+  winner -> 3
 
 === Geo Summary ===
 Requested trials: 100
 Completed circuits: 100
 Distinct-country circuits: 100 (100,00%)
 Subnet collisions (/16): 0 (0,00%)
-Avg guard BW: 55302,0, avg middle BW: 51589,0, avg exit BW: 12696,0
+Avg guard BW: 55633,0, avg middle BW: 59770,0, avg exit BW: 12363,0
 Top guards:
-  prsv -> 9
-  Quetzalcoatl -> 5
-  ForPrivacyNET -> 5
-  Unnamed -> 3
-  F3Netze -> 2
+  Quetzalcoatl -> 8
+  prsv -> 7
+  F3Netze -> 4
+  ForPrivacyNET -> 4
+  dotsrcRelay1 -> 2
 Top exits:
-  schuetzdich -> 8
-  sullyhelpstor -> 4
-  NotYourWifi -> 3
-  eo203 -> 3
-  phin -> 3
+  schuetzdich -> 7
+  sullyhelpstor -> 6
+  eo178 -> 3
+  young -> 3
+  eo186 -> 3
 
 ]]></system-out>
   </testcase>
-  <testcase name="testSelectorsBuildOneCircuit" classname="pt.unl.fct.pds.AppTest" time="0.101"/>
 </testsuite>
