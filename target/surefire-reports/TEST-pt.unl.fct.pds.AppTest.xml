@@ -1,62 +1,108 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="pt.unl.fct.pds.AppTest" time="0.004" errors="0" skipped="0">
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="pt.unl.fct.pds.AppTest" time="3.53" tests="3" errors="0" skipped="0" failures="0">
   <properties>
-    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
-    <property name="java.vm.version" value="17.0.16+8-Debian-1deb12u1"/>
-    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-17-openjdk-amd64/lib"/>
-    <property name="maven.multiModuleProjectDirectory" value="/home/user/Work/Nova/Teaching/SystemsPrivacy/2526/Projects/Project2/Code/project2"/>
-    <property name="java.vm.vendor" value="Debian"/>
-    <property name="java.vendor.url" value="https://tracker.debian.org/openjdk-17"/>
-    <property name="guice.disable.misplaced.annotation.check" value="true"/>
-    <property name="path.separator" value=":"/>
-    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
-    <property name="user.country" value="US"/>
-    <property name="sun.java.launcher" value="SUN_STANDARD"/>
-    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/home/user/Work/Nova/Teaching/SystemsPrivacy/2526/Projects/Project2/Code/project2"/>
-    <property name="java.vm.compressedOopsMode" value="32-bit"/>
-    <property name="java.runtime.version" value="17.0.16+8-Debian-1deb12u1"/>
-    <property name="os.arch" value="amd64"/>
-    <property name="java.io.tmpdir" value="/tmp"/>
-    <property name="line.separator" value="
-"/>
-    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="os.name" value="Linux"/>
-    <property name="classworlds.conf" value="/usr/share/maven/bin/m2.conf"/>
-    <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib"/>
-    <property name="maven.conf" value="/usr/share/maven/conf"/>
-    <property name="jdk.debug" value="release"/>
-    <property name="java.class.version" value="61.0"/>
-    <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="os.version" value="6.12.47-1.qubes.fc37.x86_64"/>
-    <property name="library.jansi.path" value="/usr/share/maven/lib/jansi-native"/>
-    <property name="user.home" value="/home/user"/>
-    <property name="user.timezone" value="Europe/Lisbon"/>
-    <property name="file.encoding" value="UTF-8"/>
-    <property name="java.specification.version" value="17"/>
-    <property name="user.name" value="user"/>
-    <property name="java.class.path" value="/usr/share/maven/boot/plexus-classworlds-2.x.jar"/>
-    <property name="java.vm.specification.version" value="17"/>
+    <property name="java.specification.version" value="25"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\valen\Desktop\SP_project2\target\test-classes;C:\Users\valen\Desktop\SP_project2\target\classes;C:\Users\valen\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\valen\.m2\repository\com\maxmind\geoip2\geoip2\4.4.0\geoip2-4.4.0.jar;C:\Users\valen\.m2\repository\com\maxmind\db\maxmind-db\3.2.0\maxmind-db-3.2.0.jar;C:\Users\valen\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.19.2\jackson-databind-2.19.2.jar;C:\Users\valen\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jsr310\2.19.2\jackson-datatype-jsr310-2.19.2.jar;C:\Users\valen\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.19.2\jackson-core-2.19.2.jar;C:\Users\valen\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.19.2\jackson-annotations-2.19.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean compile package"/>
-    <property name="java.home" value="/usr/lib/jvm/java-17-openjdk-amd64"/>
-    <property name="user.language" value="en"/>
-    <property name="java.specification.vendor" value="Oracle Corporation"/>
-    <property name="java.vm.info" value="mixed mode, sharing"/>
-    <property name="java.version" value="17.0.16"/>
-    <property name="native.encoding" value="UTF-8"/>
-    <property name="java.vendor" value="Debian"/>
-    <property name="sun.stderr.encoding" value="UTF-8"/>
-    <property name="java.specification.maintenance.version" value="1"/>
-    <property name="maven.home" value="/usr/share/maven"/>
-    <property name="file.separator" value="/"/>
-    <property name="java.version.date" value="2025-07-15"/>
-    <property name="java.vendor.url.bug" value="https://bugs.debian.org/openjdk-17"/>
-    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Lisbon"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="25"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="PT"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-25\bin"/>
+    <property name="sun.java.command" value="C:\Users\valen\AppData\Local\Temp\surefire12114076145326624784\surefirebooter-20251204150105926_3.jar C:\Users\valen\AppData\Local\Temp\surefire12114076145326624784 2025-12-04T15-01-05_038-jvmRun1 surefire-20251204150105926_1tmp surefire_0-20251204150105926_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\valen\Desktop\SP_project2\target\test-classes;C:\Users\valen\Desktop\SP_project2\target\classes;C:\Users\valen\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\valen\.m2\repository\com\maxmind\geoip2\geoip2\4.4.0\geoip2-4.4.0.jar;C:\Users\valen\.m2\repository\com\maxmind\db\maxmind-db\3.2.0\maxmind-db-3.2.0.jar;C:\Users\valen\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.19.2\jackson-databind-2.19.2.jar;C:\Users\valen\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jsr310\2.19.2\jackson-datatype-jsr310-2.19.2.jar;C:\Users\valen\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.19.2\jackson-core-2.19.2.jar;C:\Users\valen\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.19.2\jackson-annotations-2.19.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
-    <property name="sun.stdout.encoding" value="UTF-8"/>
+    <property name="user.home" value="C:\Users\valen"/>
+    <property name="user.language" value="pt"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2025-09-16"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-25"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\valen\Desktop\SP_project2"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\valen\AppData\Local\Temp\surefire12114076145326624784\surefirebooter-20251204150105926_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="25+37-LTS-3491"/>
+    <property name="user.name" value="valen"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\valen\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\valen\AppData\Local\Temp\"/>
+    <property name="java.version" value="25"/>
+    <property name="user.dir" value="C:\Users\valen\Desktop\SP_project2"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-25\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Python313\Scripts\;C:\Python313\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk-25\bin;C:\Program Files\Java\apache-maven-3.9.11\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\nodejs\;C:\Users\valen\anaconda3;C:\Users\valen\anaconda3\Library\mingw-w64\bin;C:\Users\valen\anaconda3\Library\usr\bin;C:\Users\valen\anaconda3\Library\bin;C:\Users\valen\anaconda3\Scripts;C:\Users\valen\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\valen\AppData\Local\Programs\Python\Python310\;C:\Users\valen\AppData\Local\Microsoft\WindowsApps;C:\Users\valen\AppData\Local\Programs\Microsoft VS Code\bin;C:\msys64\mingw64\bin;C:\Users\valen\.dotnet\tools;C:\Users\valen\AppData\Local\Programs\Python\Python311\python.exe;C:\flutter\bin;C:\dart-sdk\bin;C:\Users\valen\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Program Files\Java\jdk-21\bin\java.exe;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.1\bin;;C:\Users\valen\AppData\Roaming\npm;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25+37-LTS-3491"/>
+    <property name="stdin.encoding" value="Cp1252"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="69.0"/>
   </properties>
-  <testcase classname="pt.unl.fct.pds.AppTest" name="testApp" time="0.004"/>
+  <testcase name="testConsensusParsing" classname="pt.unl.fct.pds.AppTest" time="0.276"/>
+  <testcase name="testSelectorsEvaluationAndCsv" classname="pt.unl.fct.pds.AppTest" time="3.129">
+    <system-out><![CDATA[=== Simple Evaluation Summary ===
+Trials per selector: 100
+
+=== Tor Summary ===
+Requested trials: 100
+Completed circuits: 100
+Distinct-country circuits: 71 (71,00%)
+Subnet collisions (/16): 0 (0,00%)
+Avg guard BW: 54225,0, avg middle BW: 52942,0, avg exit BW: 11061,0
+Top guards:
+  prsv -> 10
+  Quetzalcoatl -> 8
+  Unnamed -> 3
+  anion -> 2
+  Kanellos -> 2
+Top exits:
+  schuetzdich -> 6
+  zimmermann -> 4
+  turing -> 4
+  eo206 -> 3
+  FreeNODE -> 3
+
+=== Geo Summary ===
+Requested trials: 100
+Completed circuits: 100
+Distinct-country circuits: 100 (100,00%)
+Subnet collisions (/16): 0 (0,00%)
+Avg guard BW: 55302,0, avg middle BW: 51589,0, avg exit BW: 12696,0
+Top guards:
+  prsv -> 9
+  Quetzalcoatl -> 5
+  ForPrivacyNET -> 5
+  Unnamed -> 3
+  F3Netze -> 2
+Top exits:
+  schuetzdich -> 8
+  sullyhelpstor -> 4
+  NotYourWifi -> 3
+  eo203 -> 3
+  phin -> 3
+
+]]></system-out>
+  </testcase>
+  <testcase name="testSelectorsBuildOneCircuit" classname="pt.unl.fct.pds.AppTest" time="0.101"/>
 </testsuite>
